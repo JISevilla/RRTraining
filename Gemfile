@@ -1,7 +1,11 @@
 source 'https://rubygems.org'
+gem 'rubocop', require: false
 gem 'slim'
 gem 'rb-readline', '~> 0.4.2'
 gem 'therubyracer'
+gem 'devise'
+ruby '2.2.2'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
 # Use postgresql as the database for Active Record
