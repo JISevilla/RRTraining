@@ -1,3 +1,5 @@
-h1 Hello, Rails!
-li = link_to 'Show Articles', articles_path
-li = link_to 'New Article', new_article_path
+h1 =t(:hello)
+=link_to_unless I18n.locale == :en, "English", locale: :en
+=link_to_unless I18n.locale == :es, "Español", locale: :es
+li = link_to t(:articles_show), articles_path
+li = link_to t(:article_new), new_article_path

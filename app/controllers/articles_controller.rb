@@ -1,5 +1,5 @@
 class ArticlesController < ApplicationController
-  before_action :article_get, only: [:edit, :update, :destroy, :show]
+  before_action :article, only: [:edit, :show]
   before_action :authenticate_user!
   http_basic_authenticate_with name: 'dhh', password: 'secret', except: [:index, :show]
   def index
@@ -30,7 +30,7 @@ class ArticlesController < ApplicationController
   end
 
   def update
-    if @article.update(article_params)
+    if article.update(article_params)
 
       redirect_to @article
 
@@ -41,7 +41,7 @@ class ArticlesController < ApplicationController
   end
 
   def destroy
-    @article.destroy
+    article.destroy
 
     redirect_to articles_path
   end
@@ -52,7 +52,7 @@ class ArticlesController < ApplicationController
     params.require(:article).permit(:title, :text)
   end
 
-  def article_get
-    @article = Article.find(params[:id])
+  def article
+     @article ||= Article.find(params[:id])
   end
 end

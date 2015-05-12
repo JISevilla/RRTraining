@@ -1,15 +1,18 @@
+h1 =t(:article)
 p
   strong
-  	| Title:
+  	| 
+  	= t(:title)
   	= @article.title 
 p
   strong 
-    | Text:
+    |
+  	= t(:text)
   	= @article.text 
-h2 Comments
+h2 =t(:comment)
 = render @article.comments
-h2 Add a comment
+h2 =t(:comment_new)
 = render 'comments/form'
 
-li = link_to 'Edit', edit_article_path(@article)
-li = link_to 'Back', articles_path
+li = link_to t(:edit), edit_article_path(@article)
+li = link_to t(:back), articles_path
