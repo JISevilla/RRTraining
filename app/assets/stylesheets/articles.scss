@@ -1,3 +1,23 @@
 // Place all the styles related to the articles controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.article_show{
+	text-align:center;
+	padding-left:25px;
+}
+.article_table{
+	th,td,tr {text-align:center;}
+ 	width: 50% ;
+ 	text-align:center;
+ 	padding-left:25px;
+
+}
+.article_table_col{
+	width:33% ;
+}
+.link{
+	a{
+		color:white;
+	}
+}
+

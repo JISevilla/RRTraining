@@ -1,3 +1,4 @@
-h1 =t(:article_new)
-= render 'form'
-li = link_to t(:back), articles_path
+- model_class = Article
+div class="page-header"
+  h1=t(:article_new)
+= render 'form', article: @article

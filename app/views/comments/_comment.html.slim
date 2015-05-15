@@ -1,12 +1,13 @@
-p
-    strong
-        |   
-        =t(:commenter)
-        = comment.commenter
-p
-    strong
-        |   
-        =t(:comment) 
-        = comment.body
-p
-    = link_to t(:comment_destroy), [comment.article, comment], method: :delete, data: {confirm: 'Are you sure?'}
+div.row.comment_show
+	p
+	    strong
+	        |   
+	        =t(:commenter)
+	        = comment.commenter
+	p
+	    strong
+	        |   
+	        =t(:comment) 
+	        = comment.body
+	p
+	    = link_to t(:comment_destroy), [comment.article, comment], method: :delete, data: {confirm: 'Are you sure?'}

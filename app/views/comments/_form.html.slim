@@ -1,11 +1,10 @@
-= form_for ([@article, @article.comments.build]) do |f|
-  p
-    = f.label t('commenter')
-    br
-    = f.text_field :commenter
-  p
-    = f.label t('text')
-    br
-    = f.text_area :body
-  p
-    = f.submit t('comment_new')
+= form_for ([article, article.comments.build]) do |f|
+  .form-group
+    .control-label= f.label :commenter
+    .controls
+      .control= f.text_field :commenter
+  .form-group
+    .control-label= f.label :body
+    .controls
+      .control= f.text_field :body
+  = f.submit t(:comment_new)

@@ -1,5 +1,12 @@
-h1 =t(:hello)
-=link_to_unless I18n.locale == :en, "English", locale: :en
-=link_to_unless I18n.locale == :es, "Español", locale: :es
-li = link_to t(:articles_show), articles_path
-li = link_to t(:article_new), new_article_path
+div class="navbar index_navbar"
+  table
+    tr
+      th
+        div class="col-sm-1"
+        h1 =t(:hello)
+      th
+        div class="col-sm-1"
+          = link_to_unless I18n.locale == :en, "English ", locale: :en
+          = link_to_unless I18n.locale == :es, "Español", locale: :es
+h3 = link_to t(:articles_show), articles_path
+h3 = link_to t(:article_new), new_article_path

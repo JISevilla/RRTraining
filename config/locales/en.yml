@@ -18,7 +18,7 @@ en:
   password_validate: '(%{minimun} characters minimum)'
   sign_up: 'Sign up'
   sign_in: 'Sign in'
-  sign_up_error: ' prohibited this article from being saved:qwe'
+  sign_up_error: ' prohibited this article from being saved:'
   error: 'error'
   article_destroy_confirm: 'Are you sure?'
   comment_destroy: 'Destroy comment'
@@ -30,3 +30,4 @@ en:
   remember_me: 'Remember me'
   user_new: 'Create user'
   passowrd_instructions: 'Send me reset password instructions'
+  cancel: 'Cancel'

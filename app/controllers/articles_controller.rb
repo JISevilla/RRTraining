@@ -53,6 +53,6 @@ class ArticlesController < ApplicationController
   end
 
   def article
-     @article ||= Article.find(params[:id])
+    @article ||= Article.find(params[:id])
   end
 end
