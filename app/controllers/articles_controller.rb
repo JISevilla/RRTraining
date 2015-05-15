@@ -1,6 +1,10 @@
 class ArticlesController < ApplicationController
   before_action :article, only: [:edit, :show]
   before_action :authenticate_user!
+<<<<<<< HEAD
+=======
+  http_basic_authenticate_with name: 'dhh', password: 'secret', except: [:index, :show]
+>>>>>>> spec files
   attr_accessor :title, :id
   def index
     @articles = Article.all

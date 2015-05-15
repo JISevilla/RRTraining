@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require 'rails_helper'
 describe ArticlesController do
   let(:user) { create(:user) }
@@ -15,3 +16,12 @@ describe ArticlesController do
     end
   end
 end
+=======
+describe 'GET #article' do
+  context 'when params[:id] == id' do
+	  it 'return the correct article' do
+	    @article.id.should eql id
+	  end
+	end
+end
+>>>>>>> spec files
