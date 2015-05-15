@@ -1,10 +1,13 @@
 source 'https://rubygems.org'
 gem 'rubocop', require: false
 gem 'slim'
+gem 'slim-rails'
 gem 'rb-readline', '~> 0.4.2'
 gem 'therubyracer'
 gem 'devise'
 gem 'rails-i18n'
+gem "less-rails"
+gem "twitter-bootstrap-rails"
 ruby '2.2.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'

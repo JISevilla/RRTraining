@@ -1,3 +1,4 @@
-h1 =t(:article_edit)
-= render 'form'
-li = link_to t(:back), articles_path
+- model_class = Article
+div.page-header
+  h1=t :article_edit, :default => [:'helpers.titles.edit', 'Edit %{model}'], :model => model_class.model_name.human.titleize
+= render :partial => "form"

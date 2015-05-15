@@ -13,11 +13,13 @@ html
       tr
         - if user_signed_in?
           |  
-          = t(:user_signed_in_name)
-          = current_user.email
-          | . --- 
-          = link_to t(:sign_out), destroy_user_session_path, method: :delete
+          h4
+            = t(:user_signed_in_name)
+            = current_user.email
+            | . --- 
+            = link_to t(:sign_out), destroy_user_session_path, method: :delete
         - else
-          = link_to t(:sign_up), new_user_registration_path
-          |  or 
-          = link_to t(:sign_in), new_user_session_path
+          h4
+            = link_to t(:sign_up), new_user_registration_path
+            |  | 
+            = link_to t(:sign_in), new_user_session_path
