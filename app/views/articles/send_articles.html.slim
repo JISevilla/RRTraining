@@ -1,0 +1,7 @@
+h1 Blog latest articles
+-@articles=Article.last(10)
+- @articles.each do |article|
+  h3
+    = article.title
+  p
+    = article.text

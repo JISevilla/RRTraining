@@ -31,3 +31,4 @@ es:
   user_new: 'Crear usuario'
   passowrd_instructions: 'Enviar instrucciones'
   cancel: 'Cancelar'
+  send_last_articles: 'Enviar ultimos 10 articulos'
