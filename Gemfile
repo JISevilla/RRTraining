@@ -8,6 +8,7 @@ gem 'devise'
 gem 'rails-i18n'
 gem "less-rails"
 gem "twitter-bootstrap-rails"
+
 ruby '2.2.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
