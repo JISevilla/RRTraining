@@ -1,19 +1,24 @@
-require "rails_helper" 
+require "rails_helper"
+
 describe ArticlesController do
-  describe 'GET #index' do
-    context 'when user is logged in' do
-      with :user
+  let(:user) { create(:user) }
+
+  describe 'POST #create' do
+    context 'when user logged in' do
       before do
         sign_in user
-        get :index
+        get :create
       end
-      it { is_expected.to redirect_to new_session_path }
-      it { is_expected.to set_the_flash(:warning).to('Please log in.') }
+      context 'article without error' do
+      end
+      context 'article with error' do
+      end
     end
-    context 'when user is logged out' do
+    context 'when user not logged in' do
       before do
-        get :index
+        get :create
       end
+
       it { is_expected.to redirect_to new_session_path }
       it { is_expected.to set_the_flash(:warning).to('Please log in.') }
       it { is_expected.to set_session(:return_to).to(posts_path) }
