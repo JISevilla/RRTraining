@@ -12,12 +12,13 @@ div.page-header
     = @article.text
   .btn.btn-success.link= link_to t(:edit), edit_article_path(@article)
   '
-  .btn.btn-danger.link= link_to t(:destroy), article_path(@article), :method => "delete", :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => t(:article_destroy_confirm))) }
+  .btn.btn-danger.link= link_to t(:destroy), article_path(@article), method: :delete, data: { confirm: t('.confirm', default: t("helpers.links.confirm", default: 'Are you sure?')) }
+
 
 h2 Comments
 = render @article.comments
 h2 Add a comment
-= render 'comments/form'
+= render 'comments/form', article: @article
 p
 	br
 	btn.btn-default= link_to t(:back), articles_path
