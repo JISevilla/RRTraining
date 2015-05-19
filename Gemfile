@@ -5,6 +5,7 @@ gem 'rb-readline', '~> 0.4.2'
 gem 'therubyracer'
 gem 'devise'
 gem 'rails-i18n'
+
 ruby '2.2.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -42,6 +43,8 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.0'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
+  gem 'factory_girl_rails'
+  gem 'faker' 
 
   # Access an IRB console on exception pages or by using <%= console %> in views
   gem 'web-console', '~> 2.0'

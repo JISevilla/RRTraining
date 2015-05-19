@@ -2,10 +2,9 @@ require "rails_helper"
 
 describe Article do
 	describe '#create' do
-    let(:article) { Article.new }
+    let(:article) {create(:article) }
       context 'article without error' do
         it 'Create article' do
-          article.title = "New article title"
           expect(article.valid?).to be true
         end
       end
