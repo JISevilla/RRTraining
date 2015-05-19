@@ -31,3 +31,4 @@ en:
   user_new: 'Create user'
   passowrd_instructions: 'Send me reset password instructions'
   cancel: 'Cancel'
+  send_last_articles: 'Send last 10 articles'

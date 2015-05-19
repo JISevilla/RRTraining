@@ -1,13 +1,7 @@
 class ArticlesController < ApplicationController
   before_action :article, only: [:edit, :show]
   before_action :authenticate_user!
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
   http_basic_authenticate_with name: 'dhh', password: 'secret', except: [:index, :show]
->>>>>>> spec files
-=======
->>>>>>> first tests done
   attr_accessor :title, :id
   def index
     @articles = Article.all
@@ -52,6 +46,12 @@ class ArticlesController < ApplicationController
 
     redirect_to articles_path
   end
+  
+  def send_articles
+    @articles = Article.last(10)
+    @user = current_user.email
+    BlogMailer.send_articles(@articles, @user).deliver_now!
+  end
 
   private
 
@@ -62,4 +62,5 @@ class ArticlesController < ApplicationController
   def article
     @article ||= Article.find(params[:id])
   end
+
 end

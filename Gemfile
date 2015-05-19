@@ -6,12 +6,9 @@ gem 'rb-readline', '~> 0.4.2'
 gem 'therubyracer'
 gem 'devise'
 gem 'rails-i18n'
-<<<<<<< HEAD
 gem "less-rails"
 gem "twitter-bootstrap-rails"
-=======
 
->>>>>>> first tests done
 ruby '2.2.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
