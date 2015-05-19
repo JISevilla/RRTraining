@@ -1,10 +1,12 @@
 p
-	strong
-		|	Commenter: 
-		= comment.commenter
+    strong
+        |   
+        =t(:commenter)
+        = comment.commenter
 p
-	strong
-		|	Comment: 
-		= comment.body
+    strong
+        |   
+        =t(:comment) 
+        = comment.body
 p
-	= link_to 'Destroy Comment', [comment.article, comment], method: :delete, data: {confirm: 'Are you sure?'}
+    = link_to t(:comment_destroy), [comment.article, comment], method: :delete, data: {confirm: 'Are you sure?'}
