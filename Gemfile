@@ -9,8 +9,10 @@ gem 'rails-i18n'
 gem "less-rails"
 gem "twitter-bootstrap-rails"
 
+gem 'less-rails'
+gem 'twitter-bootstrap-rails'
+gem 'activeadmin', github: 'activeadmin'
 ruby '2.2.2'
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
 # Use postgresql as the database for Active Record
