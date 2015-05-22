@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class LastArticlesPerUser
   include Sidekiq::Worker
   def perform()
