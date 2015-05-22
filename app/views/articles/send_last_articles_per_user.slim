@@ -1,0 +1,11 @@
+#progress-div
+h1 =t(:last_articles_per_user)
+- @users=User.last(5)
+- @users.each do |user|
+	h4 = user.email
+	- @articles=user.articles.last(10)
+	- @articles.each do |article|
+	  h3
+	    = article.title
+	  p
+	    = article.text
