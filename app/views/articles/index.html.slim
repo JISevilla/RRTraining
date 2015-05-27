@@ -1,4 +1,10 @@
 - model_class = Article
+-if params[:error] != nil
+  #error_expl.panel.panel-danger
+    .panel-heading
+      .div id='error_explanation'
+        h2 
+          li = params[:error] 
 .page-header
   h1=t(:articles_show)
   .table.table-bordered.article_table

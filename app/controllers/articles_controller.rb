@@ -2,6 +2,7 @@ class ArticlesController < ApplicationController
   before_action :article, only: [:edit, :show]
   before_action :authenticate_user!
   http_basic_authenticate_with name: 'dhh', password: 'secret', except: [:index, :show]
+  rescue_from Pundit::NotAuthorizedError, with: :user_not_authorized
   attr_accessor :title, :id
   def index
     @articles = Article.all
@@ -27,6 +28,7 @@ class ArticlesController < ApplicationController
   end
 
   def edit
+    authorize @article
   end
 
   def update
@@ -35,12 +37,13 @@ class ArticlesController < ApplicationController
       redirect_to @article
 
     else
-
+      authorize @article
       render 'edit'
     end
   end
 
   def destroy
+    authorize article
     article.destroy
 
     redirect_to articles_path
@@ -60,6 +63,11 @@ class ArticlesController < ApplicationController
 
   def article
     @article ||= Article.find(params[:id])
+  end
+
+  def user_not_authorized (exception)
+    @exception = exception
+    redirect_to articles_path error: t(exception.query)
   end
 
 end
