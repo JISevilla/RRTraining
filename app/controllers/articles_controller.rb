@@ -51,14 +51,7 @@ class ArticlesController < ApplicationController
   
   def send_articles
     BlogMailer.send_articles().deliver_now!
-<<<<<<< HEAD
-  end
 
-  def send_last_articles_per_user
-    BlogMailer.send_last_articles_per_user().deliver_now!
-    LastArticlesPerUser.perform_async()
-=======
->>>>>>> artperuser - ajax
   end
 
   def send_last_articles_per_user

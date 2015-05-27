@@ -7,15 +7,7 @@ Rails.application.routes.draw do
     resources :comments
       collection do
         get :send_articles
-<<<<<<< HEAD
-<<<<<<< HEAD
         get :send_last_articles_per_user
-=======
-        get :send_last_articles
->>>>>>> almost there
-=======
-        get :send_last_articles_per_user
->>>>>>> artperuser - ajax
       end
   end
 
