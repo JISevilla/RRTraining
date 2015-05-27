@@ -7,10 +7,9 @@ describe ArticlesController do
         sign_in(user)
         user.reload
       end
+
       it 'Has one more article' do
-        expect { post :create,
-                      article: { title: Faker::Lorem.characters(5), body: Faker::Lorem.characters }
-        } .to change { Article.count } .by(1)
+        expect { create(:article) }.to change { Article.count } .by(1)
       end
     end
   end
