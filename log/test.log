@@ -1,0 +1,1941 @@
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 142ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 139ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (6.8ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.4ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (28.9ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'sheila@witting.biz' LIMIT 1
+  [1m[36mSQL (55.4ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "sheila@witting.biz"], ["encrypted_password", "$2a$04$3v/ZtvQQ/lmLFL4utJwPT.u87jcp7nfNMn/VdlFvP1fZFMrT9SPTm"], ["created_at", "2015-05-19 12:15:05.231023"], ["updated_at", "2015-05-19 12:15:05.231023"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.2ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'geovanni.cummings@mann.org' LIMIT 1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "geovanni.cummings@mann.org"], ["encrypted_password", "$2a$04$P99xULZtA1hCbcUyzYvmIOzFzrTFO2CK04I4FgXSL5c9kmRYmgGYe"], ["created_at", "2015-05-19 12:15:05.291886"], ["updated_at", "2015-05-19 12:15:05.291886"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (29.5ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "ex3qx"], ["text", "[\"modi\", \"quia\", \"corporis\"]"], ["created_at", "2015-05-19 12:17:54.741136"], ["updated_at", "2015-05-19 12:17:54.741136"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"1"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (22.1ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "qwe"], ["article_id", 1], ["created_at", "2015-05-19 12:17:54.860644"], ["updated_at", "2015-05-19 12:17:54.860644"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/1?locale=en
+Completed 302 Found in 85ms (ActiveRecord: 23.2ms)
+  [1m[35mComment Load (0.3ms)[0m  SELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "07zmc"], ["text", "[\"ea\", \"inventore\", \"culpa\"]"], ["created_at", "2015-05-19 12:17:54.886958"], ["updated_at", "2015-05-19 12:17:54.886958"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"2"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 2]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "qwe"], ["article_id", 2], ["created_at", "2015-05-19 12:17:54.889569"], ["updated_at", "2015-05-19 12:17:54.889569"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/2?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.5ms)
+  [1m[35mComment Load (0.1ms)[0m  SELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "24ldi"], ["text", "[\"voluptas\", \"voluptatum\", \"nulla\"]"], ["created_at", "2015-05-19 12:18:51.147793"], ["updated_at", "2015-05-19 12:18:51.147793"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"3"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 3]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "qwe"], ["article_id", 3], ["created_at", "2015-05-19 12:18:51.166415"], ["updated_at", "2015-05-19 12:18:51.166415"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/3?locale=en
+Completed 302 Found in 16ms (ActiveRecord: 1.4ms)
+  [1m[35mComment Load (0.3ms)[0m  SELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 266ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 256ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 256ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 261ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 278ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 258ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 258ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+Processing by ArticlesController#create as HTML
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "02gtw"], ["text", "[\"aut\", \"nisi\", \"ducimus\"]"], ["created_at", "2015-05-19 12:39:13.453368"], ["updated_at", "2015-05-19 12:39:13.453368"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "sh8th"], ["text", "[\"vero\", \"ipsam\", \"praesentium\"]"], ["created_at", "2015-05-19 12:39:13.457465"], ["updated_at", "2015-05-19 12:39:13.457465"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "4j8wm"], ["text", "[\"numquam\", \"molestiae\", \"autem\"]"], ["created_at", "2015-05-19 12:39:13.459938"], ["updated_at", "2015-05-19 12:39:13.459938"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "s6h9n"], ["text", "[\"odio\", \"cum\", \"eum\"]"], ["created_at", "2015-05-19 12:44:21.416486"], ["updated_at", "2015-05-19 12:44:21.416486"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"7"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 7]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "qwe"], ["article_id", 7], ["created_at", "2015-05-19 12:44:21.435740"], ["updated_at", "2015-05-19 12:44:21.435740"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/7?locale=en
+Completed 302 Found in 17ms (ActiveRecord: 1.6ms)
+  [1m[35mComment Load (0.3ms)[0m  SELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "34gkb"], ["text", "[\"natus\", \"omnis\", \"corrupti\"]"], ["created_at", "2015-05-19 12:44:21.440455"], ["updated_at", "2015-05-19 12:44:21.440455"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"8"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 8]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "qwe"], ["article_id", 8], ["created_at", "2015-05-19 12:44:21.443083"], ["updated_at", "2015-05-19 12:44:21.443083"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/8?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.4ms)
+  [1m[35m (0.7ms)[0m  SELECT COUNT(*) FROM "comments"
+  [1m[36m (0.4ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "comments" ("commenter", "body", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["commenter", "ej3n0pf6ogumwzsyi44wcmru1jik4599sv156zb3jnexgv4ga3cw5a92erixxolnhyccwketng95k3wkxs661euz1fj37eturggf1sac538n5zrl1xvx38gw03anrjmcavxiq044rhppqtt2951ajhl5oa3f91nat5g96k1bg6ilqkpxi4thznepl19k2wappda6d3616dh6ycqf4j3b6u5n5604a5k9umi6latcpsddarx2kawjomskbvlt444"], ["body", "[\"molestiae\", \"deserunt\", \"doloribus\"]"], ["created_at", "2015-05-19 12:44:21.485045"], ["updated_at", "2015-05-19 12:44:21.485045"]]
+  [1m[36m (0.4ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>"6", "article_id"=>"8"}
+  [1m[35mArticle Load (0.6ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 8]]
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.6ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'mavis_nienow@hansen.name' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "mavis_nienow@hansen.name"], ["encrypted_password", "$2a$04$DZ3bsKig5gdce0w.IoMLAOCCgNdg8dMtupsVQYryFiIWfBM5vhr1i"], ["created_at", "2015-05-19 12:45:38.338063"], ["updated_at", "2015-05-19 12:45:38.338063"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'modesto_sipes@haley.com' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "modesto_sipes@haley.com"], ["encrypted_password", "$2a$04$.dKd3Hni2OuWbvbU2gg7nOWIKBBvTyp3hkpptU1gAJcUOIatUUCCi"], ["created_at", "2015-05-19 12:49:06.800564"], ["updated_at", "2015-05-19 12:49:06.800564"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 4]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "8spdt"], ["text", "[\"provident\", \"mollitia\", \"ullam\"]"], ["created_at", "2015-05-19 12:49:06.810527"], ["updated_at", "2015-05-19 12:49:06.810527"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>"9"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["id", 4]]
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.2ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'terrance.larkin@beahanmohr.biz' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "terrance.larkin@beahanmohr.biz"], ["encrypted_password", "$2a$04$EmgoJw5vUy1gslEhpd3Pwe2gKc7NbJhby4hBkEsmdRHEl1ZwxFQla"], ["created_at", "2015-05-19 12:55:57.723206"], ["updated_at", "2015-05-19 12:55:57.723206"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 5]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "pk4q3"], ["text", "[\"velit\", \"qui\", \"minus\"]"], ["created_at", "2015-05-19 12:55:57.732900"], ["updated_at", "2015-05-19 12:55:57.732900"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>"10"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["id", 5]]
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'adolfo_mante@marvin.org' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "adolfo_mante@marvin.org"], ["encrypted_password", "$2a$04$PyQRTr8WOK4C04iVFYe5P.NeqBjMvQIFSb9bYUnMyz9G6VxUoPyb6"], ["created_at", "2015-05-19 12:56:17.686770"], ["updated_at", "2015-05-19 12:56:17.686770"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 6]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "0atpt"], ["text", "[\"ea\", \"laborum\", \"praesentium\"]"], ["created_at", "2015-05-19 12:56:17.696598"], ["updated_at", "2015-05-19 12:56:17.696598"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>"11"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["id", 6]]
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'sim@kihndibbert.name' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "sim@kihndibbert.name"], ["encrypted_password", "$2a$04$uVlQh4SC0KAlhinVEmUki.CiHl59q3AAcMy.gHrzKwoQoQL6sMUJm"], ["created_at", "2015-05-19 12:56:33.183432"], ["updated_at", "2015-05-19 12:56:33.183432"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 7]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "kh94x"], ["text", "[\"consequatur\", \"mollitia\", \"dicta\"]"], ["created_at", "2015-05-19 12:56:33.192504"], ["updated_at", "2015-05-19 12:56:33.192504"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>"12"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["id", 7]]
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'reggie@fahey.biz' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "reggie@fahey.biz"], ["encrypted_password", "$2a$04$fpVRZzwiBQIAL7yBRBL.buQC5a0tkEs0P92Gr6OGPrsWSyqL625fW"], ["created_at", "2015-05-19 12:56:45.426923"], ["updated_at", "2015-05-19 12:56:45.426923"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 8]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "gfkj9"], ["text", "[\"assumenda\", \"ut\", \"non\"]"], ["created_at", "2015-05-19 12:56:45.436646"], ["updated_at", "2015-05-19 12:56:45.436646"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>"13"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["id", 8]]
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'adolph@rath.net' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "adolph@rath.net"], ["encrypted_password", "$2a$04$e.FnKmBbj3RNbzGG7DddsufBRDEFHo7friClJw4B48BeaQwDPI57G"], ["created_at", "2015-05-19 12:58:25.033928"], ["updated_at", "2015-05-19 12:58:25.033928"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 9]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'billie.zulauf@heathcote.info' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "billie.zulauf@heathcote.info"], ["encrypted_password", "$2a$04$ecQbNr.PBLilVcVX5jFJYO40vTN270CKDESYqTAyRSlpeSyBX2ksK"], ["created_at", "2015-05-19 12:58:54.861396"], ["updated_at", "2015-05-19 12:58:54.861396"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 10]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>{"title"=>"aaaaaaaaaa", "body"=>"aaaaaaaaaaaaaaaaaaaa"}}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 10]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["title", "aaaaaaaaaa"], ["created_at", "2015-05-19 12:58:54.875351"], ["updated_at", "2015-05-19 12:58:54.875351"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/14?locale=en
+Completed 302 Found in 6ms (ActiveRecord: 0.8ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "articles"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'henderson@schuster.name' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "henderson@schuster.name"], ["encrypted_password", "$2a$04$IKaDK2RYG..JEvitTjT1Ne3yD9pT0yWplW1k.eJ13O1wte1UaQUBG"], ["created_at", "2015-05-19 12:59:08.352444"], ["updated_at", "2015-05-19 12:59:08.352444"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 11]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "sdw88"], ["text", "[\"voluptatibus\", \"dolores\", \"est\"]"], ["created_at", "2015-05-19 12:59:08.369779"], ["updated_at", "2015-05-19 12:59:08.369779"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>"15"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["id", 11]]
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'zoila_green@upton.biz' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "zoila_green@upton.biz"], ["encrypted_password", "$2a$04$0KQM5XcffVgdcyGMchyj0OaqyX6Lt2u2OsKb4BuGYVnlQgJH6ysKm"], ["created_at", "2015-05-19 12:59:41.304188"], ["updated_at", "2015-05-19 12:59:41.304188"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 12]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "xtgew"], ["text", "[\"officia\", \"in\", \"ut\"]"], ["created_at", "2015-05-19 12:59:41.313875"], ["updated_at", "2015-05-19 12:59:41.313875"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "v2r18"], ["text", "[\"animi\", \"dolorum\", \"at\"]"], ["created_at", "2015-05-19 13:00:17.172551"], ["updated_at", "2015-05-19 13:00:17.172551"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"17"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 17]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "qwe"], ["article_id", 17], ["created_at", "2015-05-19 13:00:17.192992"], ["updated_at", "2015-05-19 13:00:17.192992"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/17?locale=en
+Completed 302 Found in 18ms (ActiveRecord: 1.5ms)
+  [1m[35mComment Load (0.3ms)[0m  SELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "h1gfs"], ["text", "[\"ut\", \"laborum\", \"sit\"]"], ["created_at", "2015-05-19 13:00:17.197503"], ["updated_at", "2015-05-19 13:00:17.197503"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"18"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 18]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "qwe"], ["article_id", 18], ["created_at", "2015-05-19 13:00:17.200155"], ["updated_at", "2015-05-19 13:00:17.200155"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/18?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.4ms)
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "comments"
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "comments" ("commenter", "body", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["commenter", "rtudpso4p6e7dkikiiplak3lcaho1fvy8hq4ky2dk90olc7tnwzbxxa74knyat97oaheh2iuoi8pmh33se5t6evqwoqk3jqzd43245f56vh6k9g56jxwqu38tqn66xxranizu0uge0ig7rgfdlfohuehpgbfk17nvgh154o6okukzlrsgto9q7n6dzfdntp9b4o7gsu15837uudwkzsw460vtpuwos7igungjidusggq507h2ulh6iml5bqljck"], ["body", "[\"est\", \"sed\", \"voluptatibus\"]"], ["created_at", "2015-05-19 13:00:17.203321"], ["updated_at", "2015-05-19 13:00:17.203321"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>"9", "article_id"=>"18"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 18]]
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "54m4z"], ["text", "[\"quaerat\", \"rerum\", \"est\"]"], ["created_at", "2015-05-19 13:01:23.180138"], ["updated_at", "2015-05-19 13:01:23.180138"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"19"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 19]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "qwe"], ["article_id", 19], ["created_at", "2015-05-19 13:01:23.198805"], ["updated_at", "2015-05-19 13:01:23.198805"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/19?locale=en
+Completed 302 Found in 16ms (ActiveRecord: 1.3ms)
+  [1m[35mComment Load (0.3ms)[0m  SELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "tpn3k"], ["text", "[\"vel\", \"autem\", \"assumenda\"]"], ["created_at", "2015-05-19 13:01:23.203375"], ["updated_at", "2015-05-19 13:01:23.203375"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"20"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 20]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "qwe"], ["article_id", 20], ["created_at", "2015-05-19 13:01:23.206109"], ["updated_at", "2015-05-19 13:01:23.206109"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/20?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "comments"
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"commenter"=>"rsk", "body"=>"body"}, "article_id"=>"20"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 20]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "comments" ("commenter", "body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["commenter", "rsk"], ["body", "body"], ["article_id", 20], ["created_at", "2015-05-19 13:01:23.209759"], ["updated_at", "2015-05-19 13:01:23.209759"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/20?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.4ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'connie_treutel@conn.biz' LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "connie_treutel@conn.biz"], ["encrypted_password", "$2a$04$s7xNO31skpsBhwIp8V7PpOPLIpeMS8y68hgO0GkkpltKQqylzFe9u"], ["created_at", "2015-05-19 13:06:24.723588"], ["updated_at", "2015-05-19 13:06:24.723588"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'london@hackett.info' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "london@hackett.info"], ["encrypted_password", "$2a$04$V0wWZkOgibSWIN5hsh/n4eakaFjRvkcY.lVB4B0tSI6Y5.P7l/wse"], ["created_at", "2015-05-19 13:09:12.702270"], ["updated_at", "2015-05-19 13:09:12.702270"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 14]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>{"title"=>"12345", "body"=>"body"}}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 14]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["title", "12345"], ["created_at", "2015-05-19 13:09:12.714076"], ["updated_at", "2015-05-19 13:09:12.714076"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/21?locale=en
+Completed 302 Found in 6ms (ActiveRecord: 0.8ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "articles"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "3g41b"], ["text", "[\"nisi\", \"error\", \"molestiae\"]"], ["created_at", "2015-05-19 13:09:12.718068"], ["updated_at", "2015-05-19 13:09:12.718068"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"22"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 22]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "qwe"], ["article_id", 22], ["created_at", "2015-05-19 13:09:12.733408"], ["updated_at", "2015-05-19 13:09:12.733408"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/22?locale=en
+Completed 302 Found in 15ms (ActiveRecord: 1.5ms)
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "kd3so"], ["text", "[\"culpa\", \"nobis\", \"omnis\"]"], ["created_at", "2015-05-19 13:09:12.737623"], ["updated_at", "2015-05-19 13:09:12.737623"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"23"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 23]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "qwe"], ["article_id", 23], ["created_at", "2015-05-19 13:09:12.740208"], ["updated_at", "2015-05-19 13:09:12.740208"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/23?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.5ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"commenter"=>"rsk", "body"=>"body"}, "article_id"=>"23"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 23]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("commenter", "body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"  [["commenter", "rsk"], ["body", "body"], ["article_id", 23], ["created_at", "2015-05-19 13:09:12.742951"], ["updated_at", "2015-05-19 13:09:12.742951"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/23?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "comments"
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "nldma"], ["text", "[\"quis\", \"vel\", \"unde\"]"], ["created_at", "2015-05-19 13:09:12.746232"], ["updated_at", "2015-05-19 13:09:12.746232"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "og9aj"], ["text", "[\"vel\", \"cum\", \"sit\"]"], ["created_at", "2015-05-19 13:09:12.748254"], ["updated_at", "2015-05-19 13:09:12.748254"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "spre0"], ["text", "[\"cupiditate\", \"voluptatem\", \"earum\"]"], ["created_at", "2015-05-19 13:09:12.758620"], ["updated_at", "2015-05-19 13:09:12.758620"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'susanna@gusikowski.info' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "susanna@gusikowski.info"], ["encrypted_password", "$2a$04$zcgjQ1cUND.TutDJp045suqyIDukqCRRza6/FF/Ei6BbzrSoPXIre"], ["created_at", "2015-05-19 14:23:42.898125"], ["updated_at", "2015-05-19 14:23:42.898125"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 15]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>{"title"=>"12345", "body"=>"body"}}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 15]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["title", "12345"], ["created_at", "2015-05-19 14:23:42.910632"], ["updated_at", "2015-05-19 14:23:42.910632"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/27?locale=en
+Completed 302 Found in 6ms (ActiveRecord: 0.9ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "articles"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "e6m8r"], ["text", "[\"asperiores\", \"hic\", \"ab\"]"], ["created_at", "2015-05-19 14:23:42.914785"], ["updated_at", "2015-05-19 14:23:42.914785"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"28"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 28]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "qwe"], ["article_id", 28], ["created_at", "2015-05-19 14:23:42.930225"], ["updated_at", "2015-05-19 14:23:42.930225"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/28?locale=en
+Completed 302 Found in 15ms (ActiveRecord: 1.4ms)
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "zwc4k"], ["text", "[\"autem\", \"numquam\", \"est\"]"], ["created_at", "2015-05-19 14:23:42.934580"], ["updated_at", "2015-05-19 14:23:42.934580"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"29"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 29]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "qwe"], ["article_id", 29], ["created_at", "2015-05-19 14:23:42.937184"], ["updated_at", "2015-05-19 14:23:42.937184"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/29?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.4ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["vero", "fugit", "est"]}, "article_id"=>"29"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 29]]
+Unpermitted parameter: body
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"  [["article_id", 29], ["created_at", "2015-05-19 14:23:42.940182"], ["updated_at", "2015-05-19 14:23:42.940182"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/29?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "comments"
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "1k0oo"], ["text", "[\"impedit\", \"eligendi\", \"aperiam\"]"], ["created_at", "2015-05-19 14:23:42.943225"], ["updated_at", "2015-05-19 14:23:42.943225"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "i3yca"], ["text", "[\"labore\", \"magnam\", \"cum\"]"], ["created_at", "2015-05-19 14:23:42.952914"], ["updated_at", "2015-05-19 14:23:42.952914"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "5b7ye"], ["text", "[\"voluptatem\", \"nihil\", \"ut\"]"], ["created_at", "2015-05-19 14:23:42.955705"], ["updated_at", "2015-05-19 14:23:42.955705"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'kirsten@kub.biz' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "kirsten@kub.biz"], ["encrypted_password", "$2a$04$vKpRxIA/zEXFJr/e0aaQcO0dFdgnD4mVD8M469mp9TH/NIHZlS4Yy"], ["created_at", "2015-05-19 14:26:55.540163"], ["updated_at", "2015-05-19 14:26:55.540163"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 16]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>{"title"=>"12345", "body"=>"body"}}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 16]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["title", "12345"], ["created_at", "2015-05-19 14:26:55.552060"], ["updated_at", "2015-05-19 14:26:55.552060"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/33?locale=en
+Completed 302 Found in 6ms (ActiveRecord: 0.9ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "articles"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "0j9ta"], ["text", "[\"molestiae\", \"harum\", \"et\"]"], ["created_at", "2015-05-19 14:26:55.556394"], ["updated_at", "2015-05-19 14:26:55.556394"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"34"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 34]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "qwe"], ["article_id", 34], ["created_at", "2015-05-19 14:26:55.572079"], ["updated_at", "2015-05-19 14:26:55.572079"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/34?locale=en
+Completed 302 Found in 15ms (ActiveRecord: 1.5ms)
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "7zddh"], ["text", "[\"non\", \"repudiandae\", \"quia\"]"], ["created_at", "2015-05-19 14:26:55.576625"], ["updated_at", "2015-05-19 14:26:55.576625"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"35"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 35]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "qwe"], ["article_id", 35], ["created_at", "2015-05-19 14:26:55.579177"], ["updated_at", "2015-05-19 14:26:55.579177"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/35?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.4ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["doloribus", "ut", "libero"]}, "article_id"=>"35"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 35]]
+Unpermitted parameter: body
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"  [["article_id", 35], ["created_at", "2015-05-19 14:26:55.582051"], ["updated_at", "2015-05-19 14:26:55.582051"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/35?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "comments"
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "vgimh"], ["text", "[\"omnis\", \"culpa\", \"maiores\"]"], ["created_at", "2015-05-19 14:26:55.584971"], ["updated_at", "2015-05-19 14:26:55.584971"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "ukzt7"], ["text", "[\"aliquid\", \"suscipit\", \"et\"]"], ["created_at", "2015-05-19 14:26:55.594995"], ["updated_at", "2015-05-19 14:26:55.594995"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "qo4wl"], ["text", "[\"nihil\", \"natus\", \"ducimus\"]"], ["created_at", "2015-05-19 14:26:55.597550"], ["updated_at", "2015-05-19 14:26:55.597550"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.6ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'deonte@walker.name' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "deonte@walker.name"], ["encrypted_password", "$2a$04$Z1l9TUkqEsFEQPf/pEHMhOioeG.We9Fo7n0zObrDuy0M7lXQem1r."], ["created_at", "2015-05-19 14:33:29.927296"], ["updated_at", "2015-05-19 14:33:29.927296"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 17]]
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "articles"
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>{"title"=>"ii6n0", "body"=>"nzohky266u6uma02pfajqj3vgd9l6l9kv549r8aqmai85yg6zr19mos9qrr9k5qdicxppfykeeyxl1tdro72wn5q71jxlkcpr9tlg5jbs7si9dfjiw9nysysfbboe1mgn6yfvgtsf429yzu0dgq3h9n6frxv6aazcxeg77aqylzpgqpydhr7q1155d20lb505umsszsgqb8nrc3x87mygvncsh7gx5dz1bd3a472bcnp4bmmcq0w1ok653us6z0"}}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 17]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["title", "ii6n0"], ["created_at", "2015-05-19 14:33:29.939885"], ["updated_at", "2015-05-19 14:33:29.939885"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/39?locale=en
+Completed 302 Found in 6ms (ActiveRecord: 0.9ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "articles"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "an9rr"], ["text", "[\"nobis\", \"cupiditate\", \"officiis\"]"], ["created_at", "2015-05-19 14:33:29.944104"], ["updated_at", "2015-05-19 14:33:29.944104"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"40"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 40]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "qwe"], ["article_id", 40], ["created_at", "2015-05-19 14:33:29.959346"], ["updated_at", "2015-05-19 14:33:29.959346"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/40?locale=en
+Completed 302 Found in 15ms (ActiveRecord: 1.4ms)
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "08dac"], ["text", "[\"in\", \"ut\", \"inventore\"]"], ["created_at", "2015-05-19 14:33:29.963590"], ["updated_at", "2015-05-19 14:33:29.963590"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"41"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 41]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "qwe"], ["article_id", 41], ["created_at", "2015-05-19 14:33:29.966295"], ["updated_at", "2015-05-19 14:33:29.966295"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/41?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.5ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["facilis", "quis", "qui"]}, "article_id"=>"41"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 41]]
+Unpermitted parameter: body
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"  [["article_id", 41], ["created_at", "2015-05-19 14:33:29.969356"], ["updated_at", "2015-05-19 14:33:29.969356"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/41?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "comments"
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "pyyv1"], ["text", "[\"omnis\", \"hic\", \"tenetur\"]"], ["created_at", "2015-05-19 14:33:29.972469"], ["updated_at", "2015-05-19 14:33:29.972469"]]
+  [1m[36m (0.2ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "u6ugz"], ["text", "[\"molestiae\", \"rerum\", \"voluptatibus\"]"], ["created_at", "2015-05-19 14:33:29.983039"], ["updated_at", "2015-05-19 14:33:29.983039"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "vogyc"], ["text", "[\"deleniti\", \"incidunt\", \"sunt\"]"], ["created_at", "2015-05-19 14:33:29.985726"], ["updated_at", "2015-05-19 14:33:29.985726"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'kavon@davis.name' LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "kavon@davis.name"], ["encrypted_password", "$2a$04$RBKlCCj/orxjVoCTGpCqPOvfnNxwe2iz36NQSmNB3vBF8nuvp9jeK"], ["created_at", "2015-05-19 14:36:42.579584"], ["updated_at", "2015-05-19 14:36:42.579584"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 18]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>{"title"=>"ij98k", "body"=>"qp63h8udew3qkosuuwogipetstsxycpx1a0egfg1zghzygmqk8uns50f4c3a1ce0jwamh3esd8acvrahd3autnni1t6rn3u3q8i5lsyeh9pnuqqd64iqgozl94g7xru5f4n5t8iboyulzyc6y1feyb9hekvdz5xgni7yu8qoqns9nke59gze7b2n1vh2pu4o90kl6um3lmp42a9qz88df2rxxh3d4otqsosczbc9tanjmwn16jh2qdkl1cyfvo2"}}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 18]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["title", "ij98k"], ["created_at", "2015-05-19 14:36:42.591842"], ["updated_at", "2015-05-19 14:36:42.591842"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/45?locale=en
+Completed 302 Found in 6ms (ActiveRecord: 1.0ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "articles"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "9mak4"], ["text", "[\"dolor\", \"voluptas\", \"id\"]"], ["created_at", "2015-05-19 14:36:42.596057"], ["updated_at", "2015-05-19 14:36:42.596057"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"46"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 46]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "qwe"], ["article_id", 46], ["created_at", "2015-05-19 14:36:42.611574"], ["updated_at", "2015-05-19 14:36:42.611574"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/46?locale=en
+Completed 302 Found in 15ms (ActiveRecord: 1.4ms)
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "qzqid"], ["text", "[\"aut\", \"consectetur\", \"perspiciatis\"]"], ["created_at", "2015-05-19 14:36:42.616118"], ["updated_at", "2015-05-19 14:36:42.616118"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qwe"}, "article_id"=>"47"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 47]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "qwe"], ["article_id", 47], ["created_at", "2015-05-19 14:36:42.618908"], ["updated_at", "2015-05-19 14:36:42.618908"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/47?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.5ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["libero", "et", "quia"]}, "article_id"=>"47"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 47]]
+Unpermitted parameter: body
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"  [["article_id", 47], ["created_at", "2015-05-19 14:36:42.622044"], ["updated_at", "2015-05-19 14:36:42.622044"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/47?locale=en
+Completed 302 Found in 3ms (ActiveRecord: 0.8ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "comments"
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.3ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "s571b"], ["text", "[\"in\", \"doloribus\", \"deleniti\"]"], ["created_at", "2015-05-19 14:36:42.627863"], ["updated_at", "2015-05-19 14:36:42.627863"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "bafo3"], ["text", "[\"praesentium\", \"maiores\", \"ut\"]"], ["created_at", "2015-05-19 14:36:42.637996"], ["updated_at", "2015-05-19 14:36:42.637996"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "ey7kt"], ["text", "[\"dolore\", \"quae\", \"consequatur\"]"], ["created_at", "2015-05-19 14:36:42.640347"], ["updated_at", "2015-05-19 14:36:42.640347"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'tyshawn.walsh@mclaughlin.biz' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "tyshawn.walsh@mclaughlin.biz"], ["encrypted_password", "$2a$04$g7ppM1ME21PqLg.Eqf17SuGFkHgH1NoW2/NdpX.FIjbmpYWxtnsxa"], ["created_at", "2015-05-19 14:37:10.833537"], ["updated_at", "2015-05-19 14:37:10.833537"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 19]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>{"title"=>"t983f", "body"=>"po0osufjcbj16jcavmsiy557n9muf5ktqvr9g55xqd2cw9nfbz2qg4fnhzrke7u99e86gorizfzfiwbp5qu30jrp6otp9ijtq3p8wt6ewxyi64pkz2yenj87qeju429mph7adtum3i2r1o6lbit1ri0cw0demnhkjlsrgjutnd79i7rd33uf9aq19hc1m97qiu9hr4hddiljuz7jcp3ip9vak9spatw9aj0zxmcxq1d5xlbkkmry6w6v9rqu0p1"}}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 19]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["title", "t983f"], ["created_at", "2015-05-19 14:37:10.845544"], ["updated_at", "2015-05-19 14:37:10.845544"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/51?locale=en
+Completed 302 Found in 6ms (ActiveRecord: 0.8ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "articles"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "l7nd4"], ["text", "[\"aperiam\", \"ducimus\", \"et\"]"], ["created_at", "2015-05-19 14:37:10.849491"], ["updated_at", "2015-05-19 14:37:10.849491"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"x41uf0ldqej9b09pd3d2n6xaiyprd03urj3ulgdapeo375c6b4sin5ugtsy92vw85hupwufbguo0lukiab396dppzfhu9a6grl622749l9qhx6usi1lzjhsjazw6dtw1y1xqhz1rtf5k19n9vxg98m23tk4n4gc006gcfwku8th93oe0tp5tgrtme6xsht2yaa4lx9mqsgt94d7ed3bkp9kemtdr3y0l36eorvlwkpb63ke4uhk8umuxz0527hf"}, "article_id"=>"52"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 52]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "x41uf0ldqej9b09pd3d2n6xaiyprd03urj3ulgdapeo375c6b4sin5ugtsy92vw85hupwufbguo0lukiab396dppzfhu9a6grl622749l9qhx6usi1lzjhsjazw6dtw1y1xqhz1rtf5k19n9vxg98m23tk4n4gc006gcfwku8th93oe0tp5tgrtme6xsht2yaa4lx9mqsgt94d7ed3bkp9kemtdr3y0l36eorvlwkpb63ke4uhk8umuxz0527hf"], ["article_id", 52], ["created_at", "2015-05-19 14:37:10.865042"], ["updated_at", "2015-05-19 14:37:10.865042"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/52?locale=en
+Completed 302 Found in 15ms (ActiveRecord: 1.5ms)
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "86wn6"], ["text", "[\"quo\", \"corporis\", \"iusto\"]"], ["created_at", "2015-05-19 14:37:10.869276"], ["updated_at", "2015-05-19 14:37:10.869276"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"c8uy0mka5l4p1vrdv8758beh46b9x4lhkwcry5g6g2y0jp5wbfnwecnmlhighbljz1uda9835vdrgvy29kquict1kf0ccj4d70vglq7x1ao4km72hlo64y51iv45ufrw7btql6cn80rdeyidjjm9xxqv61oc03ywq7goryvq9fvv0y2cp85f99g9zml3zkmpuoqekplq0s5mzpea0o4ab77t4zlx2okoj01rl8qf7o6tbrog5uxfinrzt39bofp"}, "article_id"=>"53"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 53]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "c8uy0mka5l4p1vrdv8758beh46b9x4lhkwcry5g6g2y0jp5wbfnwecnmlhighbljz1uda9835vdrgvy29kquict1kf0ccj4d70vglq7x1ao4km72hlo64y51iv45ufrw7btql6cn80rdeyidjjm9xxqv61oc03ywq7goryvq9fvv0y2cp85f99g9zml3zkmpuoqekplq0s5mzpea0o4ab77t4zlx2okoj01rl8qf7o6tbrog5uxfinrzt39bofp"], ["article_id", 53], ["created_at", "2015-05-19 14:37:10.871868"], ["updated_at", "2015-05-19 14:37:10.871868"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/53?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.4ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["voluptas", "quas", "ut"]}, "article_id"=>"53"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 53]]
+Unpermitted parameter: body
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"  [["article_id", 53], ["created_at", "2015-05-19 14:37:10.874911"], ["updated_at", "2015-05-19 14:37:10.874911"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/53?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.4ms)
+  [1m[35m (8.0ms)[0m  SELECT COUNT(*) FROM "comments"
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "1uuy8"], ["text", "[\"eum\", \"enim\", \"reprehenderit\"]"], ["created_at", "2015-05-19 14:37:10.886087"], ["updated_at", "2015-05-19 14:37:10.886087"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "11tbm"], ["text", "[\"similique\", \"et\", \"id\"]"], ["created_at", "2015-05-19 14:37:10.887880"], ["updated_at", "2015-05-19 14:37:10.887880"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "eyjvk"], ["text", "[\"earum\", \"nostrum\", \"quos\"]"], ["created_at", "2015-05-19 14:37:10.890028"], ["updated_at", "2015-05-19 14:37:10.890028"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'jackeline.hirthe@gerhold.name' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "jackeline.hirthe@gerhold.name"], ["encrypted_password", "$2a$04$AgN4/iQeaFbGYrChwHa3b.jvL4FQr1VAjbvxJfp1vk2w5TUEkpLGW"], ["created_at", "2015-05-19 14:39:07.820637"], ["updated_at", "2015-05-19 14:39:07.820637"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 20]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>{"title"=>"r17qc", "body"=>"6lds3oliajqbstep6a9xe1s3r26dexznwwta7o9kdygzbwl0ito3hjhzqg0loh8tklf8m96o4yoxdia41mjbyiihod34q6lv7ifrpwg03qc4vdyem276dyjv3dvckgxac6seug5m3t1rjbreyuul8rr9ti3huvq41qyflhiapp3inqnua9yuyy7aierc8qupr0vpy6j6v4xkfvtp944ntbg51grufevdk9enp8hfnu8fkx0s0jbzrqu7r72tlw2"}}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 20]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["title", "r17qc"], ["created_at", "2015-05-19 14:39:07.832936"], ["updated_at", "2015-05-19 14:39:07.832936"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/57?locale=en
+Completed 302 Found in 6ms (ActiveRecord: 0.8ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "articles"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "5vpz6"], ["text", "[\"est\", \"a\", \"quidem\"]"], ["created_at", "2015-05-19 14:39:07.836932"], ["updated_at", "2015-05-19 14:39:07.836932"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"1nvefvgpda2ay2i42sq8prnw20kvnzvya5ugrh9rhnfpnbx0ukbsv4u1vvl371b42hkw30d0rhsimys8oeb10cpc13kdkxas2kdmoc127u906e3lb1ulp1argjbc6sy4b5cltsor2zwr7flbcfvmj2lk001efu7vfdsp4zaq5ker4l7pq1ejwa8pykqe2wjy4osixvlbgo6xdaryqm3wxb692odx5ktr2xtrxtba0u6wadexcifk2gt0gcgocrp"}, "article_id"=>"58"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 58]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "1nvefvgpda2ay2i42sq8prnw20kvnzvya5ugrh9rhnfpnbx0ukbsv4u1vvl371b42hkw30d0rhsimys8oeb10cpc13kdkxas2kdmoc127u906e3lb1ulp1argjbc6sy4b5cltsor2zwr7flbcfvmj2lk001efu7vfdsp4zaq5ker4l7pq1ejwa8pykqe2wjy4osixvlbgo6xdaryqm3wxb692odx5ktr2xtrxtba0u6wadexcifk2gt0gcgocrp"], ["article_id", 58], ["created_at", "2015-05-19 14:39:07.852739"], ["updated_at", "2015-05-19 14:39:07.852739"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/58?locale=en
+Completed 302 Found in 15ms (ActiveRecord: 1.4ms)
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "inxf3"], ["text", "[\"id\", \"asperiores\", \"dolorum\"]"], ["created_at", "2015-05-19 14:39:07.857058"], ["updated_at", "2015-05-19 14:39:07.857058"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"mkwy2seiwfqvqsd4764dyxtwqrehbn5xzsllkigsau08ww6pbv3inrqcnny6tsazpmve00imuzkpg1lafl7c2nb5ovf1uc5hujho3p5hu252nxzu5ypcwo2qyo8se976uaouvm19iajwfg2hq510lm6b9nqkv6mrm1mazef1zbt7d6ym6lmdncp46ey1aavy1bfryfq0v485fwwt8nq2m9lmlbe1b3909axoho1sami984yyesfye144ltgg8oj"}, "article_id"=>"59"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 59]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "mkwy2seiwfqvqsd4764dyxtwqrehbn5xzsllkigsau08ww6pbv3inrqcnny6tsazpmve00imuzkpg1lafl7c2nb5ovf1uc5hujho3p5hu252nxzu5ypcwo2qyo8se976uaouvm19iajwfg2hq510lm6b9nqkv6mrm1mazef1zbt7d6ym6lmdncp46ey1aavy1bfryfq0v485fwwt8nq2m9lmlbe1b3909axoho1sami984yyesfye144ltgg8oj"], ["article_id", 59], ["created_at", "2015-05-19 14:39:07.859733"], ["updated_at", "2015-05-19 14:39:07.859733"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/59?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.5ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["vitae", "est", "ex"]}, "article_id"=>"59"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 59]]
+Unpermitted parameter: body
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"  [["article_id", 59], ["created_at", "2015-05-19 14:39:07.862982"], ["updated_at", "2015-05-19 14:39:07.862982"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/59?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "comments"
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "q07da"], ["text", "[\"eius\", \"in\", \"consectetur\"]"], ["created_at", "2015-05-19 14:39:07.874038"], ["updated_at", "2015-05-19 14:39:07.874038"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "97yt6"], ["text", "[\"qui\", \"optio\", \"a\"]"], ["created_at", "2015-05-19 14:39:07.875942"], ["updated_at", "2015-05-19 14:39:07.875942"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "wra8b"], ["text", "[\"explicabo\", \"ut\", \"et\"]"], ["created_at", "2015-05-19 14:39:07.878260"], ["updated_at", "2015-05-19 14:39:07.878260"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (33.8ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (442.1ms)[0m  [1mDROP DATABASE IF EXISTS "blog_test"[0m
+  [1m[35m (1208.2ms)[0m  CREATE DATABASE "blog_test" ENCODING = 'unicode'
+  [1m[36mSQL (0.2ms)[0m  [1mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  [1m[35m (172.4ms)[0m  CREATE TABLE "active_admin_comments" ("id" serial primary key, "namespace" character varying, "body" text, "resource_id" character varying NOT NULL, "resource_type" character varying NOT NULL, "author_id" integer, "author_type" character varying, "created_at" timestamp, "updated_at" timestamp) 
+  [1m[36m (73.9ms)[0m  [1mCREATE  INDEX  "index_active_admin_comments_on_author_type_and_author_id" ON "active_admin_comments" USING btree ("author_type", "author_id")[0m
+  [1m[35m (79.3ms)[0m  CREATE  INDEX  "index_active_admin_comments_on_namespace" ON "active_admin_comments" USING btree ("namespace")
+  [1m[36m (70.7ms)[0m  [1mCREATE  INDEX  "index_active_admin_comments_on_resource_type_and_resource_id" ON "active_admin_comments" USING btree ("resource_type", "resource_id")[0m
+  [1m[35m (114.4ms)[0m  CREATE TABLE "admin_users" ("id" serial primary key, "email" character varying DEFAULT '' NOT NULL, "encrypted_password" character varying DEFAULT '' NOT NULL, "reset_password_token" character varying, "reset_password_sent_at" timestamp, "remember_created_at" timestamp, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" timestamp, "last_sign_in_at" timestamp, "current_sign_in_ip" inet, "last_sign_in_ip" inet, "created_at" timestamp, "updated_at" timestamp) 
+  [1m[36m (73.5ms)[0m  [1mCREATE UNIQUE INDEX  "index_admin_users_on_email" ON "admin_users" USING btree ("email")[0m
+  [1m[35m (73.8ms)[0m  CREATE UNIQUE INDEX  "index_admin_users_on_reset_password_token" ON "admin_users" USING btree ("reset_password_token")
+  [1m[36m (141.5ms)[0m  [1mCREATE TABLE "articles" ("id" serial primary key, "title" character varying, "text" text, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL, "user_id" integer) [0m
+  [1m[35m (122.3ms)[0m  CREATE TABLE "comments" ("id" serial primary key, "commenter" character varying, "body" text, "article_id" integer, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL) 
+  [1m[36m (81.8ms)[0m  [1mCREATE  INDEX  "index_comments_on_article_id" ON "comments" USING btree ("article_id")[0m
+  [1m[35m (132.2ms)[0m  CREATE TABLE "users" ("id" serial primary key, "email" character varying DEFAULT '' NOT NULL, "encrypted_password" character varying DEFAULT '' NOT NULL, "reset_password_token" character varying, "reset_password_sent_at" timestamp, "remember_created_at" timestamp, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" timestamp, "last_sign_in_at" timestamp, "current_sign_in_ip" inet, "last_sign_in_ip" inet, "created_at" timestamp, "updated_at" timestamp) 
+  [1m[36m (74.2ms)[0m  [1mCREATE UNIQUE INDEX  "index_users_on_email" ON "users" USING btree ("email")[0m
+  [1m[35m (78.5ms)[0m  CREATE UNIQUE INDEX  "index_users_on_reset_password_token" ON "users" USING btree ("reset_password_token")
+  [1m[36m (7.6ms)[0m  [1mALTER TABLE "comments" ADD CONSTRAINT "fk_rails_3bf61a60d3"
+FOREIGN KEY ("article_id")
+  REFERENCES "articles" ("id")
+[0m
+  [1m[35m (86.6ms)[0m  CREATE TABLE "schema_migrations" ("version" character varying NOT NULL) 
+  [1m[36m (79.1ms)[0m  [1mCREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")[0m
+  [1m[35m (0.2ms)[0m  SELECT version FROM "schema_migrations"
+  [1m[36m (7.9ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150522152818')[0m
+  [1m[35m (8.3ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150520155014')
+  [1m[36m (8.3ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150508134937')[0m
+  [1m[35m (8.2ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150520155016')
+  [1m[36m (8.2ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150508140701')[0m
+  [1m[35m (8.2ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150506135926')
+  [1m[36m (8.3ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150505194114')[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.7ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mUser Exists (0.5ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE "users"."email" = 'madge_green@flatleydubuque.org' LIMIT 1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["email", "madge_green@flatleydubuque.org"], ["encrypted_password", "$2a$04$kVuzqtjgW8Z5HlT39nGCCeJW2YcxYCNT8vq6p.dKrJPyP3l79i8F."], ["created_at", "2015-05-29 12:19:54.599130"], ["updated_at", "2015-05-29 12:19:54.599130"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 1]]
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "articles"[0m
+Processing by ArticlesController#create as HTML
+  Parameters: {"article"=>{"title"=>"jvqrz", "body"=>"6dlbjntzt0a2ud16spvm6gv2dh43megb16teg5877cnc97wql8a7mmcd9gb0ka826jupba7k8m123qpt4w1akcv9rji36ctlnkht7zog9ybbi2kjqmtxja3n96p9sdfz8xv9kue2ypfotl0mjr8ag5mo7twhmt7o5fxf47dv3p8v0urvbgm0eyc0al1d6mxf02pq63rvdrfjsc6gmkthwux5vrwczr8k2m4dp13e6v6vxua3x5okb00dj50f3or"}}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+Unpermitted parameter: body
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "user_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "jvqrz"], ["user_id", 1], ["created_at", "2015-05-29 12:19:54.623864"], ["updated_at", "2015-05-29 12:19:54.623864"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/1?locale=en
+Completed 302 Found in 6ms (ActiveRecord: 1.2ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "gioyh"], ["text", "[\"tempore\", \"non\", \"molestias\"]"], ["created_at", "2015-05-29 12:19:54.628807"], ["updated_at", "2015-05-29 12:19:54.628807"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"vt30twvzcuvcswkmwwfr1oc07few0io891p1q8jrtwimcrofnvt8hhn4pcvzoa90k93s05ro5rqhqlr7i3hgxhhbjruhrhmf3hqxrkk3vb746g20jl1i5aende244avekio5p3lsoi4si5htb0d7ibjfjahqv5gkil4jbia162byju2tsefvdogn1bif3i70bxtqitj3vdd6dwvi3lommdrm82ic4z7e5iqdt7mifl2gd0e0jcs3zl2yxkux6go"}, "article_id"=>"2"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 2]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "vt30twvzcuvcswkmwwfr1oc07few0io891p1q8jrtwimcrofnvt8hhn4pcvzoa90k93s05ro5rqhqlr7i3hgxhhbjruhrhmf3hqxrkk3vb746g20jl1i5aende244avekio5p3lsoi4si5htb0d7ibjfjahqv5gkil4jbia162byju2tsefvdogn1bif3i70bxtqitj3vdd6dwvi3lommdrm82ic4z7e5iqdt7mifl2gd0e0jcs3zl2yxkux6go"], ["article_id", 2], ["created_at", "2015-05-29 12:19:54.645471"], ["updated_at", "2015-05-29 12:19:54.645471"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/2?locale=en
+Completed 302 Found in 16ms (ActiveRecord: 1.4ms)
+  [1m[35mComment Load (0.2ms)[0m  SELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "zmljd"], ["text", "[\"at\", \"ut\", \"rem\"]"], ["created_at", "2015-05-29 12:19:54.650155"], ["updated_at", "2015-05-29 12:19:54.650155"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"tx0alrf6t3fbtb3vobfude35fbk00nxgj3crhybs1m6mkebt4ovl2tn52klry179ezw9jua3k5ywe62xwo7xsyarm3srok5criz9yzii7syhvyeee00bfzm8yjj34j37e1k4k6w574l5oguye69ajny2cj8h61k6zpkgd2csawne7nj95ldfxnu9rx6idk64jx8e1a2n89phjgmdusvfdoq69yqu48v8ok7d5cwfbme3e28b07bj0zb32tuoyyu"}, "article_id"=>"3"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 3]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "tx0alrf6t3fbtb3vobfude35fbk00nxgj3crhybs1m6mkebt4ovl2tn52klry179ezw9jua3k5ywe62xwo7xsyarm3srok5criz9yzii7syhvyeee00bfzm8yjj34j37e1k4k6w574l5oguye69ajny2cj8h61k6zpkgd2csawne7nj95ldfxnu9rx6idk64jx8e1a2n89phjgmdusvfdoq69yqu48v8ok7d5cwfbme3e28b07bj0zb32tuoyyu"], ["article_id", 3], ["created_at", "2015-05-29 12:19:54.653782"], ["updated_at", "2015-05-29 12:19:54.653782"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/3?locale=en
+Completed 302 Found in 4ms (ActiveRecord: 0.7ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "comments"
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["facilis", "sunt", "harum"]}, "article_id"=>"3"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 3]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["article_id", 3], ["created_at", "2015-05-29 12:19:54.658543"], ["updated_at", "2015-05-29 12:19:54.658543"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/3?locale=en
+Completed 302 Found in 3ms (ActiveRecord: 0.6ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "b5tm1"], ["text", "[\"sequi\", \"aut\", \"assumenda\"]"], ["created_at", "2015-05-29 12:19:54.662523"], ["updated_at", "2015-05-29 12:19:54.662523"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "6rqh7"], ["text", "[\"qui\", \"vitae\", \"repellat\"]"], ["created_at", "2015-05-29 12:19:54.667260"], ["updated_at", "2015-05-29 12:19:54.667260"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "a1m9q"], ["text", "[\"quibusdam\", \"inventore\", \"eaque\"]"], ["created_at", "2015-05-29 12:19:54.670004"], ["updated_at", "2015-05-29 12:19:54.670004"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.4ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'lauryn@robel.org' LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "lauryn@robel.org"], ["encrypted_password", "$2a$04$02yXYhE6qw8EmIv7yIu1vOEm2O0ScI3L.CqhOd3X2bNKK3AlsB/yO"], ["created_at", "2015-05-29 12:46:53.206366"], ["updated_at", "2015-05-29 12:46:53.206366"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 2]]
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "up0ih"], ["text", "[\"ipsa\", \"quos\", \"dolorem\"]"], ["created_at", "2015-05-29 12:46:53.215615"], ["updated_at", "2015-05-29 12:46:53.215615"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"9bazqe3g1cpgtoav4njme1hgorq7uiqqp8t2oahkkwj6lie2vh47m9bes7ve0pl8izu5h43pq153uj18xtsblsosvsdv4gytqli3gr2sbgqzlal4oavn2r44w2snas15a0dd78ofbtdn5yrd4jri8c2r8tjuu3akdp4wgozyzcu6ytwkhcztacvo4cec9kjrixasuchodjkd8sftoztrhzvy6q59ce1p3n3m8xa8deu881qujj0xmaho66c8oc2"}, "article_id"=>"7"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 7]]
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.4ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "9bazqe3g1cpgtoav4njme1hgorq7uiqqp8t2oahkkwj6lie2vh47m9bes7ve0pl8izu5h43pq153uj18xtsblsosvsdv4gytqli3gr2sbgqzlal4oavn2r44w2snas15a0dd78ofbtdn5yrd4jri8c2r8tjuu3akdp4wgozyzcu6ytwkhcztacvo4cec9kjrixasuchodjkd8sftoztrhzvy6q59ce1p3n3m8xa8deu881qujj0xmaho66c8oc2"], ["article_id", 7], ["created_at", "2015-05-29 12:46:53.235788"], ["updated_at", "2015-05-29 12:46:53.235788"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/7?locale=en
+Completed 302 Found in 21ms (ActiveRecord: 2.8ms)
+  [1m[36mComment Load (0.4ms)[0m  [1mSELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "otuob"], ["text", "[\"molestias\", \"maxime\", \"aspernatur\"]"], ["created_at", "2015-05-29 12:46:53.244772"], ["updated_at", "2015-05-29 12:46:53.244772"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"e0949awwp11ie5gg2zqcy28doj149zzohf0c4xexmpqv0uxylw7ham0k1hfcd2xzyjv1yixtwh54i13ur7bdhhxaaltubvj9v83gqerdclz2f4nueccrly5gszs7hckjas1jz2ar7wlsueran18cj59htq8rte8xm7am3v9woj0wiik0q8xkla8ubr447ilo8tzjwq3rzxciu4dvkdo1qig06u046zni3wn9qoufhlui0lcyugszj2gxkic19de"}, "article_id"=>"8"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 8]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "e0949awwp11ie5gg2zqcy28doj149zzohf0c4xexmpqv0uxylw7ham0k1hfcd2xzyjv1yixtwh54i13ur7bdhhxaaltubvj9v83gqerdclz2f4nueccrly5gszs7hckjas1jz2ar7wlsueran18cj59htq8rte8xm7am3v9woj0wiik0q8xkla8ubr447ilo8tzjwq3rzxciu4dvkdo1qig06u046zni3wn9qoufhlui0lcyugszj2gxkic19de"], ["article_id", 8], ["created_at", "2015-05-29 12:46:53.248157"], ["updated_at", "2015-05-29 12:46:53.248157"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/8?locale=en
+Completed 302 Found in 3ms (ActiveRecord: 0.5ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["dolor", "cupiditate", "voluptatem"]}, "article_id"=>"8"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 8]]
+Unpermitted parameter: body
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"  [["article_id", 8], ["created_at", "2015-05-29 12:46:53.253047"], ["updated_at", "2015-05-29 12:46:53.253047"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/8?locale=en
+Completed 302 Found in 3ms (ActiveRecord: 0.6ms)
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "comments"
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "5bie9"], ["text", "[\"voluptatem\", \"dolorum\", \"porro\"]"], ["created_at", "2015-05-29 12:46:53.256345"], ["updated_at", "2015-05-29 12:46:53.256345"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "y5pqa"], ["text", "[\"eum\", \"laborum\", \"harum\"]"], ["created_at", "2015-05-29 12:46:53.258199"], ["updated_at", "2015-05-29 12:46:53.258199"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "1n1mg"], ["text", "[\"magni\", \"velit\", \"qui\"]"], ["created_at", "2015-05-29 12:46:53.260674"], ["updated_at", "2015-05-29 12:46:53.260674"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'marlon_howe@goodwin.net' LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "marlon_howe@goodwin.net"], ["encrypted_password", "$2a$04$VDGnt6/rYI8fyEN6U4pO0OsnkO3XtXmjZDYz7jzeVD4wyZIQfYsWK"], ["created_at", "2015-05-29 12:47:33.284090"], ["updated_at", "2015-05-29 12:47:33.284090"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 3]]
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "wj1gt"], ["text", "[\"dolores\", \"nostrum\", \"sunt\"]"], ["created_at", "2015-05-29 12:47:33.294654"], ["updated_at", "2015-05-29 12:47:33.294654"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"3075lavkgpj27lhd3qhwhxu67bb7ro0z6g2aj5gz9k8vgwobjne8xtiimcqee4sy1ppe9lr0wzyyuyht5cvf4z494my6k1w8jvte6p79tagpjb3pg5y3iki5bqn7sd483xv1nj3ag5rr05kzhem399x91gbw7sk9uzjveauiqhihfta6i08v4inzvn8x5djgg8dpew9zhuvl265c2dlk7e5o1md8llyolhs8w9ai29x4do1hzrxwhh86z5tsvdx"}, "article_id"=>"12"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 12]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "3075lavkgpj27lhd3qhwhxu67bb7ro0z6g2aj5gz9k8vgwobjne8xtiimcqee4sy1ppe9lr0wzyyuyht5cvf4z494my6k1w8jvte6p79tagpjb3pg5y3iki5bqn7sd483xv1nj3ag5rr05kzhem399x91gbw7sk9uzjveauiqhihfta6i08v4inzvn8x5djgg8dpew9zhuvl265c2dlk7e5o1md8llyolhs8w9ai29x4do1hzrxwhh86z5tsvdx"], ["article_id", 12], ["created_at", "2015-05-29 12:47:33.312813"], ["updated_at", "2015-05-29 12:47:33.312813"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/12?locale=en
+Completed 302 Found in 16ms (ActiveRecord: 1.5ms)
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "j2rgd"], ["text", "[\"aut\", \"accusamus\", \"distinctio\"]"], ["created_at", "2015-05-29 12:47:33.317765"], ["updated_at", "2015-05-29 12:47:33.317765"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"0u0wr3pss8gkimsww4lzvg96y03fg51z02xug5x1ykabg99fyi42qy6kf8solbx7mopg0krxjuqak8h1fyyinzz5wkvrty3gl4xfoat4ym0xz35isiwmic3x1d56m3jcdfai4kpyayl3kems6au1ysbwq6ycqffti5jpadrkpkd8bcaa2lzu00mnbav1kny6hc3idagz581i96p9hqukxgm49ocwfvjau0v303r4am18t7pibw1axwcf0bg06kk"}, "article_id"=>"13"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 13]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "0u0wr3pss8gkimsww4lzvg96y03fg51z02xug5x1ykabg99fyi42qy6kf8solbx7mopg0krxjuqak8h1fyyinzz5wkvrty3gl4xfoat4ym0xz35isiwmic3x1d56m3jcdfai4kpyayl3kems6au1ysbwq6ycqffti5jpadrkpkd8bcaa2lzu00mnbav1kny6hc3idagz581i96p9hqukxgm49ocwfvjau0v303r4am18t7pibw1axwcf0bg06kk"], ["article_id", 13], ["created_at", "2015-05-29 12:47:33.321171"], ["updated_at", "2015-05-29 12:47:33.321171"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/13?locale=en
+Completed 302 Found in 3ms (ActiveRecord: 0.5ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["sapiente", "voluptas", "sunt"]}, "article_id"=>"13"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 13]]
+Unpermitted parameter: body
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"  [["article_id", 13], ["created_at", "2015-05-29 12:47:33.326416"], ["updated_at", "2015-05-29 12:47:33.326416"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/13?locale=en
+Completed 302 Found in 2ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "comments"
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "yovp6"], ["text", "[\"praesentium\", \"nam\", \"aut\"]"], ["created_at", "2015-05-29 12:47:33.329524"], ["updated_at", "2015-05-29 12:47:33.329524"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "chyvz"], ["text", "[\"voluptatem\", \"aspernatur\", \"ea\"]"], ["created_at", "2015-05-29 12:47:33.331293"], ["updated_at", "2015-05-29 12:47:33.331293"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "79fsb"], ["text", "[\"ut\", \"doloremque\", \"quibusdam\"]"], ["created_at", "2015-05-29 12:47:33.333636"], ["updated_at", "2015-05-29 12:47:33.333636"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'florencio.vonrueden@skiles.net' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "florencio.vonrueden@skiles.net"], ["encrypted_password", "$2a$04$YYZyppnAZtIDLa/bJrXAl.j.8w21sLo/RmVZ4P0IgPsHzfcGiXOk6"], ["created_at", "2015-05-29 12:48:00.196971"], ["updated_at", "2015-05-29 12:48:00.196971"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 4]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "ayill"], ["text", "[\"aliquid\", \"hic\", \"corrupti\"]"], ["created_at", "2015-05-29 12:48:00.208113"], ["updated_at", "2015-05-29 12:48:00.208113"]]
+  [1m[36m (0.2ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"qg900dq2d76arzultwl0fvto0c8bdpkeso5jxij28rvfu7og094ucpwrae6gscrxs6ry2t3niorx3u06w69hdo8ecq4qqbamgm5h8gvj1kqzouhky7m7gtid5jaqu122sdrzc2hddhfv0jktljzv03tv5pakkifmxklx84i1vijtwg7x9e1kcddd98do2tfivjlqwhacklytw6or2ni70383kxgebxwl5nofrnt5yl16ixxnqutw68l96f7z9eu"}, "article_id"=>"17"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 17]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "qg900dq2d76arzultwl0fvto0c8bdpkeso5jxij28rvfu7og094ucpwrae6gscrxs6ry2t3niorx3u06w69hdo8ecq4qqbamgm5h8gvj1kqzouhky7m7gtid5jaqu122sdrzc2hddhfv0jktljzv03tv5pakkifmxklx84i1vijtwg7x9e1kcddd98do2tfivjlqwhacklytw6or2ni70383kxgebxwl5nofrnt5yl16ixxnqutw68l96f7z9eu"], ["article_id", 17], ["created_at", "2015-05-29 12:48:00.227287"], ["updated_at", "2015-05-29 12:48:00.227287"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/17?locale=en
+Completed 302 Found in 16ms (ActiveRecord: 1.6ms)
+  [1m[35mComment Load (0.3ms)[0m  SELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "zh514"], ["text", "[\"aut\", \"totam\", \"molestias\"]"], ["created_at", "2015-05-29 12:48:00.232391"], ["updated_at", "2015-05-29 12:48:00.232391"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"w4idjkyujiic4o6d7nmwxlgs52gyrornoea3s6w3f1pftxqhzhs8tz38oo8pffo8pfouq49ktj8d8jz9tx84clh8akapxv5urytwjhq221zzeexcudimto8i1ediocar4g5l9fx9j4pw0sg2qbd6t3fu2f1me7edwa9yjhpf8hkaoqxmd2z6of99levcrp2asbv1508mh2yz0lwxenyg0yryn7aae70dogxx31bv2i9irfwsm08th38s4or7wnx"}, "article_id"=>"18"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 18]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "w4idjkyujiic4o6d7nmwxlgs52gyrornoea3s6w3f1pftxqhzhs8tz38oo8pffo8pfouq49ktj8d8jz9tx84clh8akapxv5urytwjhq221zzeexcudimto8i1ediocar4g5l9fx9j4pw0sg2qbd6t3fu2f1me7edwa9yjhpf8hkaoqxmd2z6of99levcrp2asbv1508mh2yz0lwxenyg0yryn7aae70dogxx31bv2i9irfwsm08th38s4or7wnx"], ["article_id", 18], ["created_at", "2015-05-29 12:48:00.236007"], ["updated_at", "2015-05-29 12:48:00.236007"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/18?locale=en
+Completed 302 Found in 3ms (ActiveRecord: 0.6ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "comments"
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["voluptas", "unde", "excepturi"]}, "article_id"=>"18"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 18]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["article_id", 18], ["created_at", "2015-05-29 12:48:00.239967"], ["updated_at", "2015-05-29 12:48:00.239967"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/18?locale=en
+Completed 302 Found in 3ms (ActiveRecord: 0.6ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "h1vyi"], ["text", "[\"iste\", \"vitae\", \"voluptatem\"]"], ["created_at", "2015-05-29 12:48:00.243747"], ["updated_at", "2015-05-29 12:48:00.243747"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "rer2z"], ["text", "[\"amet\", \"et\", \"odio\"]"], ["created_at", "2015-05-29 12:48:00.245736"], ["updated_at", "2015-05-29 12:48:00.245736"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "dgill"], ["text", "[\"dolores\", \"voluptatem\", \"est\"]"], ["created_at", "2015-05-29 12:48:00.248277"], ["updated_at", "2015-05-29 12:48:00.248277"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'blanche_koelpin@abshire.biz' LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "blanche_koelpin@abshire.biz"], ["encrypted_password", "$2a$04$O6muAb7lMwQ40TvlrP7tD.eri/rwxeu2Akn2Vy7IKzr7g5rBD1Vom"], ["created_at", "2015-05-29 12:48:17.836542"], ["updated_at", "2015-05-29 12:48:17.836542"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 5]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "bqtzm"], ["text", "[\"explicabo\", \"natus\", \"a\"]"], ["created_at", "2015-05-29 12:48:17.848136"], ["updated_at", "2015-05-29 12:48:17.848136"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"thc97fraxbwagbpb1j6ju8uo2fuw2nrncdfila5fkg89iayd30pfhbj9l6lb5l5paei56dsx262ditiy5k6ovc51w14zaiblx44pc04xc0zd6owoc231j9wjkthpaurtpvometc43f9isrghm01iexxqru8j6eo2rq6kleonf1dq2kqr2vxz0yhsfh0tqd6ocyrd1ep6c0cks3u4noelf352e02n21ai3yxydaw26njhbmz7e9k1uumfdovutit"}, "article_id"=>"22"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 22]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "thc97fraxbwagbpb1j6ju8uo2fuw2nrncdfila5fkg89iayd30pfhbj9l6lb5l5paei56dsx262ditiy5k6ovc51w14zaiblx44pc04xc0zd6owoc231j9wjkthpaurtpvometc43f9isrghm01iexxqru8j6eo2rq6kleonf1dq2kqr2vxz0yhsfh0tqd6ocyrd1ep6c0cks3u4noelf352e02n21ai3yxydaw26njhbmz7e9k1uumfdovutit"], ["article_id", 22], ["created_at", "2015-05-29 12:48:17.866722"], ["updated_at", "2015-05-29 12:48:17.866722"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/22?locale=en
+Completed 302 Found in 16ms (ActiveRecord: 1.4ms)
+  [1m[35mComment Load (0.3ms)[0m  SELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "9pgs3"], ["text", "[\"iure\", \"asperiores\", \"repellat\"]"], ["created_at", "2015-05-29 12:48:17.871295"], ["updated_at", "2015-05-29 12:48:17.871295"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"0bneq4lg5jjf30hsiz5p7g1rijtaaq9ys7r4eozlc16lrnr5zujg21uyc3u48hmms0u0h146ofp5fk5e51kycj7cwu8s4lc91t7k24fhfwa4cynx74i5lyvnn073na2b26te22yjdjuktso566bcmovau9v18lizu3wy9s16t276bvbu817sq060yzta29p7rdg4vmzpxwrglk7yszdzbvn28nfgk3nby8g3iveo25p1x21a50ieasewi4rma6e"}, "article_id"=>"23"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 23]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "0bneq4lg5jjf30hsiz5p7g1rijtaaq9ys7r4eozlc16lrnr5zujg21uyc3u48hmms0u0h146ofp5fk5e51kycj7cwu8s4lc91t7k24fhfwa4cynx74i5lyvnn073na2b26te22yjdjuktso566bcmovau9v18lizu3wy9s16t276bvbu817sq060yzta29p7rdg4vmzpxwrglk7yszdzbvn28nfgk3nby8g3iveo25p1x21a50ieasewi4rma6e"], ["article_id", 23], ["created_at", "2015-05-29 12:48:17.874731"], ["updated_at", "2015-05-29 12:48:17.874731"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/23?locale=en
+Completed 302 Found in 3ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "comments"
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["molestiae", "expedita", "fugit"]}, "article_id"=>"23"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 23]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["article_id", 23], ["created_at", "2015-05-29 12:48:17.878603"], ["updated_at", "2015-05-29 12:48:17.878603"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/23?locale=en
+Completed 302 Found in 3ms (ActiveRecord: 0.5ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "8rwey"], ["text", "[\"debitis\", \"suscipit\", \"reprehenderit\"]"], ["created_at", "2015-05-29 12:48:17.881843"], ["updated_at", "2015-05-29 12:48:17.881843"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "018bq"], ["text", "[\"iusto\", \"repellendus\", \"ad\"]"], ["created_at", "2015-05-29 12:48:17.883858"], ["updated_at", "2015-05-29 12:48:17.883858"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "rqub5"], ["text", "[\"quisquam\", \"consequuntur\", \"dolorum\"]"], ["created_at", "2015-05-29 12:48:17.886413"], ["updated_at", "2015-05-29 12:48:17.886413"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.6ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'jonathan.lemke@keebler.net' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "jonathan.lemke@keebler.net"], ["encrypted_password", "$2a$04$2Dv3BcmqipaccxSLbx6lGOs5An/hoMXJuPvBfM8LwbOpq7Q5uPDby"], ["created_at", "2015-05-29 12:49:02.253812"], ["updated_at", "2015-05-29 12:49:02.253812"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 6]]
+  [1m[35m (0.9ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "hbdrf"], ["text", "[\"provident\", \"accusantium\", \"beatae\"]"], ["created_at", "2015-05-29 12:49:06.508484"], ["updated_at", "2015-05-29 12:49:06.508484"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"jdtpodf1pj0g9uzz39r81i4z6gmiixskxn54s1pr8c4eajun7y33y0amfro0f2whoxyhtxcoqt4ykx2gbbw9z4uf5wl7b54cu36m3uu7k7oy2z9802rna5b95t2lyzpeb77kcr8n8l8s488vo9kt835syd1fknu1s3rwhxh9l4vyvikp0y5so4ltjsba127okh3hqy4mieorxcjzq31dgk8i8jy2w4p471v4zd4zzswxn8nmh022egbniysxqtk"}, "article_id"=>"27"}
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 27]]
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "jdtpodf1pj0g9uzz39r81i4z6gmiixskxn54s1pr8c4eajun7y33y0amfro0f2whoxyhtxcoqt4ykx2gbbw9z4uf5wl7b54cu36m3uu7k7oy2z9802rna5b95t2lyzpeb77kcr8n8l8s488vo9kt835syd1fknu1s3rwhxh9l4vyvikp0y5so4ltjsba127okh3hqy4mieorxcjzq31dgk8i8jy2w4p471v4zd4zzswxn8nmh022egbniysxqtk"], ["article_id", 27], ["created_at", "2015-05-29 12:49:06.571125"], ["updated_at", "2015-05-29 12:49:06.571125"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/27?locale=en
+Completed 302 Found in 41ms (ActiveRecord: 2.3ms)
+  [1m[36mComment Load (0.5ms)[0m  [1mSELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "f9b3i"], ["text", "[\"fuga\", \"neque\", \"ut\"]"], ["created_at", "2015-05-29 12:49:06.593860"], ["updated_at", "2015-05-29 12:49:06.593860"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"hb8e1vtj1b74c4riedf0yltynjfdoh5ym3mdgi4d7h6u42udepdk900we246no7weklfxc9r8chbihktvhj6lisenig0u40iyeo0clmindiitjjzouf528l941dg064xatjz7ewuj6h4t3rfohebovb9e204y4jj4v1yxeq4ggo2wkvc4cx01n7okvg6hwscqkmgtf0fe6pgr3xsylqzfgjmajwn9h6sq4jl2prtx340s8ymsudzxy5uvtc26zi"}, "article_id"=>"28"}
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 28]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["body", "hb8e1vtj1b74c4riedf0yltynjfdoh5ym3mdgi4d7h6u42udepdk900we246no7weklfxc9r8chbihktvhj6lisenig0u40iyeo0clmindiitjjzouf528l941dg064xatjz7ewuj6h4t3rfohebovb9e204y4jj4v1yxeq4ggo2wkvc4cx01n7okvg6hwscqkmgtf0fe6pgr3xsylqzfgjmajwn9h6sq4jl2prtx340s8ymsudzxy5uvtc26zi"], ["article_id", 28], ["created_at", "2015-05-29 12:49:06.608979"], ["updated_at", "2015-05-29 12:49:06.608979"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/28?locale=en
+Completed 302 Found in 18ms (ActiveRecord: 1.7ms)
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["ea", "doloremque", "repudiandae"]}, "article_id"=>"28"}
+  [1m[35mArticle Load (0.3ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 28]]
+Unpermitted parameter: body
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"  [["article_id", 28], ["created_at", "2015-05-29 12:49:06.633494"], ["updated_at", "2015-05-29 12:49:06.633494"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/28?locale=en
+Completed 302 Found in 12ms (ActiveRecord: 1.0ms)
+  [1m[35m (0.4ms)[0m  SELECT COUNT(*) FROM "comments"
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "siim2"], ["text", "[\"quia\", \"suscipit\", \"ratione\"]"], ["created_at", "2015-05-29 12:49:06.652856"], ["updated_at", "2015-05-29 12:49:06.652856"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "19el8"], ["text", "[\"id\", \"nihil\", \"quidem\"]"], ["created_at", "2015-05-29 12:49:06.663036"], ["updated_at", "2015-05-29 12:49:06.663036"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "zrsc2"], ["text", "[\"nihil\", \"voluptatum\", \"quae\"]"], ["created_at", "2015-05-29 12:49:06.683373"], ["updated_at", "2015-05-29 12:49:06.683373"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'zachery@swift.com' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "zachery@swift.com"], ["encrypted_password", "$2a$04$BsIlW8FyGw9Ft7aDr2H.zOTFoMh4eSjJbzdPVc0Sus8MRNEGV3fv6"], ["created_at", "2015-05-29 12:51:16.609224"], ["updated_at", "2015-05-29 12:51:16.609224"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 7]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "6y2d7"], ["text", "[\"exercitationem\", \"a\", \"doloremque\"]"], ["created_at", "2015-05-29 12:51:16.619666"], ["updated_at", "2015-05-29 12:51:16.619666"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "rasvn"], ["text", "[\"et\", \"libero\", \"aut\"]"], ["created_at", "2015-05-29 12:51:16.623032"], ["updated_at", "2015-05-29 12:51:16.623032"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"t833sgajlyd2d0sczaa9qqj5y7joegc4ss241ujkw9lkystm6lnwnl6fpto840nhz52mtevx9hr9lz1xb366czxqpg4e2owgi7i62s60ew6jpu8gxmhuv759rzyp5v8udiwhpm5hp5yt2kghc43plkm5pl1l3qog6anl8c4jyrnr2b18yo55nibe97z1gw76rgtfqyb530ftoksi3v7ato3tf7g0hna7cq49pc64i83lknuz04dongklpc1b0py"}, "article_id"=>"33"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 33]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "t833sgajlyd2d0sczaa9qqj5y7joegc4ss241ujkw9lkystm6lnwnl6fpto840nhz52mtevx9hr9lz1xb366czxqpg4e2owgi7i62s60ew6jpu8gxmhuv759rzyp5v8udiwhpm5hp5yt2kghc43plkm5pl1l3qog6anl8c4jyrnr2b18yo55nibe97z1gw76rgtfqyb530ftoksi3v7ato3tf7g0hna7cq49pc64i83lknuz04dongklpc1b0py"], ["article_id", 33], ["created_at", "2015-05-29 12:51:16.640827"], ["updated_at", "2015-05-29 12:51:16.640827"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/33?locale=en
+Completed 302 Found in 16ms (ActiveRecord: 1.5ms)
+  [1m[35mComment Load (0.3ms)[0m  SELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "wpfjv"], ["text", "[\"odio\", \"consequuntur\", \"natus\"]"], ["created_at", "2015-05-29 12:51:16.645262"], ["updated_at", "2015-05-29 12:51:16.645262"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"bu88g0ivhvgoo4rnegfa2pec12dkb4j7dt5wlxnwwtwwx955dzurvhn3jlay5p9f5v2knoczxhfkrva5bff4v758llx2hqwuuvjix0tcs9umlgwy6towwvphweart2dvsy43la44qqhdltcic66bm0x4p4d6tf5klbfd84htvoy1n1kuqi9ybij4wlg5cguqgo0tups71tnlv0bdchucve66vqnjhz0yze82ulh2zbig1h4uk9uwva5uxf13s2j"}, "article_id"=>"34"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 34]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "bu88g0ivhvgoo4rnegfa2pec12dkb4j7dt5wlxnwwtwwx955dzurvhn3jlay5p9f5v2knoczxhfkrva5bff4v758llx2hqwuuvjix0tcs9umlgwy6towwvphweart2dvsy43la44qqhdltcic66bm0x4p4d6tf5klbfd84htvoy1n1kuqi9ybij4wlg5cguqgo0tups71tnlv0bdchucve66vqnjhz0yze82ulh2zbig1h4uk9uwva5uxf13s2j"], ["article_id", 34], ["created_at", "2015-05-29 12:51:16.648072"], ["updated_at", "2015-05-29 12:51:16.648072"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/34?locale=en
+Completed 302 Found in 3ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "comments"
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["facere", "perspiciatis", "maxime"]}, "article_id"=>"34"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 34]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["article_id", 34], ["created_at", "2015-05-29 12:51:16.651811"], ["updated_at", "2015-05-29 12:51:16.651811"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/34?locale=en
+Completed 302 Found in 3ms (ActiveRecord: 0.5ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "9taf1"], ["text", "[\"temporibus\", \"facere\", \"velit\"]"], ["created_at", "2015-05-29 12:51:16.655137"], ["updated_at", "2015-05-29 12:51:16.655137"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "ynu6z"], ["text", "[\"fuga\", \"sequi\", \"sint\"]"], ["created_at", "2015-05-29 12:51:16.657017"], ["updated_at", "2015-05-29 12:51:16.657017"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "7mfcb"], ["text", "[\"harum\", \"eum\", \"ipsa\"]"], ["created_at", "2015-05-29 12:51:16.659486"], ["updated_at", "2015-05-29 12:51:16.659486"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'calista.skiles@stark.com' LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "calista.skiles@stark.com"], ["encrypted_password", "$2a$04$28C//L4xD5s0wPGbeLQLROe1fu.ZLy7NsLKrly0dxEoCfp/SLBQVG"], ["created_at", "2015-05-29 12:51:31.744907"], ["updated_at", "2015-05-29 12:51:31.744907"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 8]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "dym5o"], ["text", "[\"mollitia\", \"omnis\", \"cum\"]"], ["created_at", "2015-05-29 12:51:31.754640"], ["updated_at", "2015-05-29 12:51:31.754640"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.8ms)[0m  [1mSELECT COUNT(*) FROM "articles"[0m
+  [1m[35mArticle Load (1.2ms)[0m  SELECT  "articles".* FROM "articles"  ORDER BY "articles"."id" DESC LIMIT 1
+  [1m[36m (0.9ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "a8kai"], ["text", "[\"molestiae\", \"cumque\", \"quasi\"]"], ["created_at", "2015-05-29 12:51:45.108532"], ["updated_at", "2015-05-29 12:51:45.108532"]]
+  [1m[36m (0.2ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"tn9jnb5ram93ytkfhc1z2k3egppjj74tn2v5s9kgm14v8h0t2lbpqzzio7a0cmjrh71ff1kpm9bcc1xbnjfk3q9kj6udckg20tt4p8v78z4v132rl3808l6edk3bjmqki4vx7iekh1da9ij0zt0owhpxyzj1g6ljmtqyamjqm6sikolqkpr0wbak2dbygi1if2lf6m7bjdyukky4rfcmuog8okv61zylnznnbsr98iimkv1pqv4du878czslyi0"}, "article_id"=>"39"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 39]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "tn9jnb5ram93ytkfhc1z2k3egppjj74tn2v5s9kgm14v8h0t2lbpqzzio7a0cmjrh71ff1kpm9bcc1xbnjfk3q9kj6udckg20tt4p8v78z4v132rl3808l6edk3bjmqki4vx7iekh1da9ij0zt0owhpxyzj1g6ljmtqyamjqm6sikolqkpr0wbak2dbygi1if2lf6m7bjdyukky4rfcmuog8okv61zylnznnbsr98iimkv1pqv4du878czslyi0"], ["article_id", 39], ["created_at", "2015-05-29 12:51:45.171446"], ["updated_at", "2015-05-29 12:51:45.171446"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/39?locale=en
+Completed 302 Found in 41ms (ActiveRecord: 2.0ms)
+  [1m[35mComment Load (0.4ms)[0m  SELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "t99vq"], ["text", "[\"voluptate\", \"rem\", \"atque\"]"], ["created_at", "2015-05-29 12:51:45.189321"], ["updated_at", "2015-05-29 12:51:45.189321"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"k8zz2c6j8ys9figqvqj3k9jfw6ctty5s2v4tnuj7p3sy2bog0lhhwgtyvarptdy5bd43253kldejk0sfagvcduul1cy6uux88sw5bqtilb8fyijdqqwud6fll8fhq4qw3h47909h2dgv2rbzyg5kb0lxh7ofu0heg4f3buokexrtu64bceq9whk1443qxh0j9n6sqy83jj71oqw80cqoit0u7xv0ypelpopsruexnh9pmlv914actrsgoyjwdox"}, "article_id"=>"40"}
+  [1m[35mArticle Load (0.4ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 40]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.8ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "k8zz2c6j8ys9figqvqj3k9jfw6ctty5s2v4tnuj7p3sy2bog0lhhwgtyvarptdy5bd43253kldejk0sfagvcduul1cy6uux88sw5bqtilb8fyijdqqwud6fll8fhq4qw3h47909h2dgv2rbzyg5kb0lxh7ofu0heg4f3buokexrtu64bceq9whk1443qxh0j9n6sqy83jj71oqw80cqoit0u7xv0ypelpopsruexnh9pmlv914actrsgoyjwdox"], ["article_id", 40], ["created_at", "2015-05-29 12:51:45.209744"], ["updated_at", "2015-05-29 12:51:45.209744"]]
+  [1m[36m (0.2ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/40?locale=en
+Completed 302 Found in 14ms (ActiveRecord: 1.5ms)
+  [1m[35m (0.4ms)[0m  SELECT COUNT(*) FROM "comments"
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["sapiente", "omnis", "ad"]}, "article_id"=>"40"}
+  [1m[36mArticle Load (0.4ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 40]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["article_id", 40], ["created_at", "2015-05-29 12:51:45.232887"], ["updated_at", "2015-05-29 12:51:45.232887"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/40?locale=en
+Completed 302 Found in 12ms (ActiveRecord: 1.1ms)
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "9qb9q"], ["text", "[\"aut\", \"ipsam\", \"voluptas\"]"], ["created_at", "2015-05-29 12:51:45.252097"], ["updated_at", "2015-05-29 12:51:45.252097"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "uvsjq"], ["text", "[\"sed\", \"iste\", \"ullam\"]"], ["created_at", "2015-05-29 12:51:45.262526"], ["updated_at", "2015-05-29 12:51:45.262526"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "46mhp"], ["text", "[\"qui\", \"fuga\", \"quaerat\"]"], ["created_at", "2015-05-29 12:51:45.283003"], ["updated_at", "2015-05-29 12:51:45.283003"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mUser Exists (0.5ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'aglae_fay@kuphal.net' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "aglae_fay@kuphal.net"], ["encrypted_password", "$2a$04$ok2xdDu/0KmRNPnyYomxlOePgXG/TxpC10iBu4sz1YYTp7WK.DDf2"], ["created_at", "2015-05-29 13:04:21.944753"], ["updated_at", "2015-05-29 13:04:21.944753"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 9]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "7bv4n"], ["text", "[\"molestias\", \"ut\", \"nostrum\"]"], ["created_at", "2015-05-29 13:04:21.954918"], ["updated_at", "2015-05-29 13:04:21.954918"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "articles"
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "hucc5"], ["text", "[\"quod\", \"laudantium\", \"dicta\"]"], ["created_at", "2015-05-29 13:04:21.958517"], ["updated_at", "2015-05-29 13:04:21.958517"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"j9tdk7fmfb4ejaus70c2a01exzev0rlwm825po7yr27da66r1e37q45n89tmnasniwu402wm0u8hwf40ggg6j5jgzxelzktcm46nbtu2ez6epgnqmnpd4po24sclaq4h90klk8458v8fslb38d9n6wflgvlxq3htitjd397qiriua1mwe3d2av79l3w4bho3oe2q1uo737o7l8vnltrik4uvdfkx9em8755aqp1ex33spn8ij8u5ufei6u278qu"}, "article_id"=>"45"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 45]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "j9tdk7fmfb4ejaus70c2a01exzev0rlwm825po7yr27da66r1e37q45n89tmnasniwu402wm0u8hwf40ggg6j5jgzxelzktcm46nbtu2ez6epgnqmnpd4po24sclaq4h90klk8458v8fslb38d9n6wflgvlxq3htitjd397qiriua1mwe3d2av79l3w4bho3oe2q1uo737o7l8vnltrik4uvdfkx9em8755aqp1ex33spn8ij8u5ufei6u278qu"], ["article_id", 45], ["created_at", "2015-05-29 13:04:21.976297"], ["updated_at", "2015-05-29 13:04:21.976297"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/45?locale=en
+Completed 302 Found in 16ms (ActiveRecord: 1.5ms)
+  [1m[35mComment Load (0.3ms)[0m  SELECT  "comments".* FROM "comments"  ORDER BY "comments"."id" DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "8rmkd"], ["text", "[\"reiciendis\", \"quas\", \"sint\"]"], ["created_at", "2015-05-29 13:04:21.981220"], ["updated_at", "2015-05-29 13:04:21.981220"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>"by295xshwmg41335o5fee542vco8knstxek0iwrgtcx2y817zqi5h5yx4qyxjch2xhzqz56ho3e3ivbj9l0yvj6r444qkky9jmmw04ejvn8p06su95jgxk4yl9ah3sm9rmg1r9ezgc9ysu53fiqo73s307a9qdxmr0an7gjk7jgl6s67ivk5kvh423qmlary6y70du6wk3wqncu0t92207dx1t8zhja483tm42f1cymrme5ts7r8wzdivr23g8b"}, "article_id"=>"46"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1  [["id", 46]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "comments" ("body", "article_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["body", "by295xshwmg41335o5fee542vco8knstxek0iwrgtcx2y817zqi5h5yx4qyxjch2xhzqz56ho3e3ivbj9l0yvj6r444qkky9jmmw04ejvn8p06su95jgxk4yl9ah3sm9rmg1r9ezgc9ysu53fiqo73s307a9qdxmr0an7gjk7jgl6s67ivk5kvh423qmlary6y70du6wk3wqncu0t92207dx1t8zhja483tm42f1cymrme5ts7r8wzdivr23g8b"], ["article_id", 46], ["created_at", "2015-05-29 13:04:21.984400"], ["updated_at", "2015-05-29 13:04:21.984400"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/articles/46?locale=en
+Completed 302 Found in 3ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "comments"
+Processing by CommentsController#create as HTML
+  Parameters: {"comment"=>{"body"=>["quis", "ipsum", "est"]}, "article_id"=>"46"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = $1 LIMIT 1[0m  [["id", 46]]
+Unpermitted parameter: body
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("article_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["article_id", 46], ["created_at", "2015-05-29 13:04:21.988144"], ["updated_at", "2015-05-29 13:04:21.988144"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/articles/46?locale=en
+Completed 302 Found in 3ms (ActiveRecord: 0.5ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comments"[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "piqcc"], ["text", "[\"at\", \"autem\", \"reprehenderit\"]"], ["created_at", "2015-05-29 13:04:21.991414"], ["updated_at", "2015-05-29 13:04:21.991414"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["title", "76xko"], ["text", "[\"eligendi\", \"dolores\", \"ut\"]"], ["created_at", "2015-05-29 13:04:21.993332"], ["updated_at", "2015-05-29 13:04:21.993332"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["title", "jui2d"], ["text", "[\"dolore\", \"saepe\", \"nisi\"]"], ["created_at", "2015-05-29 13:04:21.995907"], ["updated_at", "2015-05-29 13:04:21.995907"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (29.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (1.5ms)[0m  [1mSELECT t2.oid::regclass::text AS to_table, a1.attname AS column, a2.attname AS primary_key, c.conname AS name, c.confupdtype AS on_update, c.confdeltype AS on_delete
+FROM pg_constraint c
+JOIN pg_class t1 ON c.conrelid = t1.oid
+JOIN pg_class t2 ON c.confrelid = t2.oid
+JOIN pg_attribute a1 ON a1.attnum = c.conkey[1] AND a1.attrelid = t1.oid
+JOIN pg_attribute a2 ON a2.attnum = c.confkey[1] AND a2.attrelid = t2.oid
+JOIN pg_namespace t3 ON c.connamespace = t3.oid
+WHERE c.contype = 'f'
+  AND t1.relname = 'active_admin_comments'
+  AND t3.nspname = ANY (current_schemas(false))
+ORDER BY c.conname
+[0m
+  [1m[35m (1.2ms)[0m  SELECT t2.oid::regclass::text AS to_table, a1.attname AS column, a2.attname AS primary_key, c.conname AS name, c.confupdtype AS on_update, c.confdeltype AS on_delete
+FROM pg_constraint c
+JOIN pg_class t1 ON c.conrelid = t1.oid
+JOIN pg_class t2 ON c.confrelid = t2.oid
+JOIN pg_attribute a1 ON a1.attnum = c.conkey[1] AND a1.attrelid = t1.oid
+JOIN pg_attribute a2 ON a2.attnum = c.confkey[1] AND a2.attrelid = t2.oid
+JOIN pg_namespace t3 ON c.connamespace = t3.oid
+WHERE c.contype = 'f'
+  AND t1.relname = 'admin_users'
+  AND t3.nspname = ANY (current_schemas(false))
+ORDER BY c.conname
+
+  [1m[36m (1.2ms)[0m  [1mSELECT t2.oid::regclass::text AS to_table, a1.attname AS column, a2.attname AS primary_key, c.conname AS name, c.confupdtype AS on_update, c.confdeltype AS on_delete
+FROM pg_constraint c
+JOIN pg_class t1 ON c.conrelid = t1.oid
+JOIN pg_class t2 ON c.confrelid = t2.oid
+JOIN pg_attribute a1 ON a1.attnum = c.conkey[1] AND a1.attrelid = t1.oid
+JOIN pg_attribute a2 ON a2.attnum = c.confkey[1] AND a2.attrelid = t2.oid
+JOIN pg_namespace t3 ON c.connamespace = t3.oid
+WHERE c.contype = 'f'
+  AND t1.relname = 'articles'
+  AND t3.nspname = ANY (current_schemas(false))
+ORDER BY c.conname
+[0m
+  [1m[35m (2.4ms)[0m  SELECT t2.oid::regclass::text AS to_table, a1.attname AS column, a2.attname AS primary_key, c.conname AS name, c.confupdtype AS on_update, c.confdeltype AS on_delete
+FROM pg_constraint c
+JOIN pg_class t1 ON c.conrelid = t1.oid
+JOIN pg_class t2 ON c.confrelid = t2.oid
+JOIN pg_attribute a1 ON a1.attnum = c.conkey[1] AND a1.attrelid = t1.oid
+JOIN pg_attribute a2 ON a2.attnum = c.confkey[1] AND a2.attrelid = t2.oid
+JOIN pg_namespace t3 ON c.connamespace = t3.oid
+WHERE c.contype = 'f'
+  AND t1.relname = 'comments'
+  AND t3.nspname = ANY (current_schemas(false))
+ORDER BY c.conname
+
+  [1m[36m (1.2ms)[0m  [1mSELECT t2.oid::regclass::text AS to_table, a1.attname AS column, a2.attname AS primary_key, c.conname AS name, c.confupdtype AS on_update, c.confdeltype AS on_delete
+FROM pg_constraint c
+JOIN pg_class t1 ON c.conrelid = t1.oid
+JOIN pg_class t2 ON c.confrelid = t2.oid
+JOIN pg_attribute a1 ON a1.attnum = c.conkey[1] AND a1.attrelid = t1.oid
+JOIN pg_attribute a2 ON a2.attnum = c.confkey[1] AND a2.attrelid = t2.oid
+JOIN pg_namespace t3 ON c.connamespace = t3.oid
+WHERE c.contype = 'f'
+  AND t1.relname = 'users'
+  AND t3.nspname = ANY (current_schemas(false))
+ORDER BY c.conname
+[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (2.1ms)[0m  [1mSELECT t2.oid::regclass::text AS to_table, a1.attname AS column, a2.attname AS primary_key, c.conname AS name, c.confupdtype AS on_update, c.confdeltype AS on_delete
+FROM pg_constraint c
+JOIN pg_class t1 ON c.conrelid = t1.oid
+JOIN pg_class t2 ON c.confrelid = t2.oid
+JOIN pg_attribute a1 ON a1.attnum = c.conkey[1] AND a1.attrelid = t1.oid
+JOIN pg_attribute a2 ON a2.attnum = c.confkey[1] AND a2.attrelid = t2.oid
+JOIN pg_namespace t3 ON c.connamespace = t3.oid
+WHERE c.contype = 'f'
+  AND t1.relname = 'active_admin_comments'
+  AND t3.nspname = ANY (current_schemas(false))
+ORDER BY c.conname
+[0m
+  [1m[35m (1.8ms)[0m  SELECT t2.oid::regclass::text AS to_table, a1.attname AS column, a2.attname AS primary_key, c.conname AS name, c.confupdtype AS on_update, c.confdeltype AS on_delete
+FROM pg_constraint c
+JOIN pg_class t1 ON c.conrelid = t1.oid
+JOIN pg_class t2 ON c.confrelid = t2.oid
+JOIN pg_attribute a1 ON a1.attnum = c.conkey[1] AND a1.attrelid = t1.oid
+JOIN pg_attribute a2 ON a2.attnum = c.confkey[1] AND a2.attrelid = t2.oid
+JOIN pg_namespace t3 ON c.connamespace = t3.oid
+WHERE c.contype = 'f'
+  AND t1.relname = 'admin_users'
+  AND t3.nspname = ANY (current_schemas(false))
+ORDER BY c.conname
+
+  [1m[36m (1.7ms)[0m  [1mSELECT t2.oid::regclass::text AS to_table, a1.attname AS column, a2.attname AS primary_key, c.conname AS name, c.confupdtype AS on_update, c.confdeltype AS on_delete
+FROM pg_constraint c
+JOIN pg_class t1 ON c.conrelid = t1.oid
+JOIN pg_class t2 ON c.confrelid = t2.oid
+JOIN pg_attribute a1 ON a1.attnum = c.conkey[1] AND a1.attrelid = t1.oid
+JOIN pg_attribute a2 ON a2.attnum = c.confkey[1] AND a2.attrelid = t2.oid
+JOIN pg_namespace t3 ON c.connamespace = t3.oid
+WHERE c.contype = 'f'
+  AND t1.relname = 'articles'
+  AND t3.nspname = ANY (current_schemas(false))
+ORDER BY c.conname
+[0m
+  [1m[35m (1.8ms)[0m  SELECT t2.oid::regclass::text AS to_table, a1.attname AS column, a2.attname AS primary_key, c.conname AS name, c.confupdtype AS on_update, c.confdeltype AS on_delete
+FROM pg_constraint c
+JOIN pg_class t1 ON c.conrelid = t1.oid
+JOIN pg_class t2 ON c.confrelid = t2.oid
+JOIN pg_attribute a1 ON a1.attnum = c.conkey[1] AND a1.attrelid = t1.oid
+JOIN pg_attribute a2 ON a2.attnum = c.confkey[1] AND a2.attrelid = t2.oid
+JOIN pg_namespace t3 ON c.connamespace = t3.oid
+WHERE c.contype = 'f'
+  AND t1.relname = 'comments'
+  AND t3.nspname = ANY (current_schemas(false))
+ORDER BY c.conname
+
+  [1m[36m (1.9ms)[0m  [1mSELECT t2.oid::regclass::text AS to_table, a1.attname AS column, a2.attname AS primary_key, c.conname AS name, c.confupdtype AS on_update, c.confdeltype AS on_delete
+FROM pg_constraint c
+JOIN pg_class t1 ON c.conrelid = t1.oid
+JOIN pg_class t2 ON c.confrelid = t2.oid
+JOIN pg_attribute a1 ON a1.attnum = c.conkey[1] AND a1.attrelid = t1.oid
+JOIN pg_attribute a2 ON a2.attnum = c.confkey[1] AND a2.attrelid = t2.oid
+JOIN pg_namespace t3 ON c.connamespace = t3.oid
+WHERE c.contype = 'f'
+  AND t1.relname = 'users'
+  AND t3.nspname = ANY (current_schemas(false))
+ORDER BY c.conname
+[0m

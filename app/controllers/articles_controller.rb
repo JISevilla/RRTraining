@@ -32,9 +32,7 @@ class ArticlesController < ApplicationController
 
   def update
     if article.update(article_params)
-
       redirect_to @article
-
     else
       authorize @article
       render 'edit'
@@ -44,18 +42,16 @@ class ArticlesController < ApplicationController
   def destroy
     authorize article
     article.destroy
-
     redirect_to articles_path
   end
-  
-  def send_articles
-    BlogMailer.send_articles().deliver_now!
 
+  def send_articles
+    BlogMailer.send_articles.deliver_now!
   end
 
   def send_last_articles_per_user
-    BlogMailer.send_last_articles_per_user().deliver_now!
-    LastArticlesPerUser.perform_async()
+    BlogMailer.send_last_articles_per_user.deliver_now!
+    LastArticlesPerUser.perform_async
   end
 
   private
@@ -68,9 +64,8 @@ class ArticlesController < ApplicationController
     @article ||= Article.find(params[:id])
   end
 
-  def user_not_authorized (exception)
+  def user_not_authorized(exception)
     @exception = exception
     redirect_to articles_path error: t(exception.query)
   end
-
 end

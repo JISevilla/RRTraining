@@ -1,0 +1,32 @@
+language: ruby
+rvm:
+  - 2.2.2
+
+branches:
+  only:
+    - travisci
+
+addons:
+  code_climate:
+
+services:
+  - postgresql
+  - redis-server
+
+before_script:
+  - psql -c "CREATE USER juliansevilla WITH PASSWORD 'jsrsk';" -U postgres
+  - psql -c "DROP DATABASE IF EXISTS blog_test;" -U postgres
+  - psql -c "CREATE DATABASE blog_test ENCODING 'utf8';" -U postgres
+  - bundle exec rake db:migrate test:prepare
+
+script:
+  - bundle exec rspec
+  - bundle exec rubocop app spec -R
+
+notifications:
+  email:
+    recipients:
+      - julian.sevilla@wolox.com.ar
+
+cache:
+  bundler: true

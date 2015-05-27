@@ -39,8 +39,8 @@ RSpec.configure do |config|
     # `true` in RSpec 4.
     mocks.verify_partial_doubles = true
   end
-  # The settings below are suggested to provide a good initial experience
-  # with RSpec, but feel free to customize to your heart's content.
+# The settings below are suggested to provide a good initial experience
+# with RSpec, but feel free to customize to your heart's content.
 =begin
     # These two settings work together to allow you to limit a spec run
     # to individual examples or groups you care about by tagging them with
