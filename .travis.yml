@@ -2,10 +2,6 @@ language: ruby
 rvm:
   - 2.2.2
 
-branches:
-  only:
-    - travisci
-
 addons:
   code_climate:
 

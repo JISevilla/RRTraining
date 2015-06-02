@@ -25,12 +25,12 @@ development:
   <<: *default
   database: blog_development
   username: juliansevilla
-  password: jsrsk
+  password: j372060s
   host: localhost
 
 test:
   <<: *default
   database: blog_test
   username: juliansevilla
-  password: jsrsk
+  password: j372060s
   host: localhost

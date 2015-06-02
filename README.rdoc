@@ -1,5 +1,5 @@
 {<img src="https://codeclimate.com/repos/5565cf5de30ba0784a002441/badges/eafe0509bcd4b003eeb0/gpa.svg" />}[https://codeclimate.com/repos/5565cf5de30ba0784a002441/feed]
-{<img src="https://travis-ci.org/JISevilla/RRTraining.svg?branch=travisci" alt="Build Status" />}[https://travis-ci.org/JISevilla/RRTraining]
+{<img src="https://travis-ci.org/JISevilla/RRTraining.svg?branch=logins" alt="Build Status" />}[https://travis-ci.org/JISevilla/RRTraining]
 == README
 
 This README would normally document whatever steps are necessary to get the
