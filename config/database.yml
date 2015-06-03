@@ -28,7 +28,7 @@ development:
   password: j372060s
   host: localhost
 
-test: 
+test:
   <<: *default
   database: blog_test
   username: juliansevilla
