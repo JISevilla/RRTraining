@@ -37,3 +37,5 @@ es:
   last_articles_per_user: 'Ultimos articulos por usuario'
   edit?: 'No estas autorizado para editar eso'
   destroy?: 'No estas autorizado para eliminar eso'
+  sign_in_google: 'Iniciar sesion con Google'
+  sign_in_facebook: 'Iniciar sesion con Facebook'
